@@ -7,6 +7,13 @@ This is the source code of my homepage. I build this website based on [minimal](
 
 Feel free to use the source code anywhere you like.
 
+## Features
+
+- Simple and elegant personal homepage theme
+- Jekyll theme, deploy automatically by GitHub pages
+- Support Markdown 
+- Support dark mode
+
 ## Usage
 
 - Change `_config.yml` file as follows:
