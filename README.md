@@ -28,7 +28,7 @@ To use this theme, add the following to your site's `_config.yml`:
 
 ### Configuration variables
 
-Change `_config.yml` file as follows:
+Minimal Academic theme will respect the following variables, if set in your site's _config.yml:
 
   ```yaml
   title: Yaoyao Liu
