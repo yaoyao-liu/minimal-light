@@ -4,3 +4,5 @@ set -e
 
 gem install bundler
 bundle install
+source 'https://rubygems.org'
+gem "jekyll-theme-minimal-academic"
