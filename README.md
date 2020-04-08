@@ -69,3 +69,7 @@ If you'd like to change the theme's HTML layout:
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
+
+## License
+
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE) License.
