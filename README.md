@@ -19,7 +19,7 @@ Feel free to use the source code anywhere you like.
   favicon: /assets/img/favicon.png
   favicon_dark: /assets/img/favicon-dark.png
   description: Yaoyao Liu is a Ph.D. student in computer science. His research lies in few-shot learning, meta learning, continual learning, and image generation.
-  theme: jekyll-theme-minimal-academic
+  remote_theme: yaoyao-liu/minimal-academic
   ```
 
   
