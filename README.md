@@ -1,6 +1,6 @@
 # The Minimal Academic theme
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
 
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
