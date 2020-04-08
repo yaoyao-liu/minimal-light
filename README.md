@@ -7,6 +7,8 @@ This is the source code of my homepage. I build this website based on [minimal](
 
 Feel free to use the source code anywhere you like.
 
+[![Thumbnail](https://raw.githubusercontent.com/yaoyao-liu/minimal-academic/master/thumbnail.png)]
+
 ## Features
 
 - Simple and elegant personal homepage theme
