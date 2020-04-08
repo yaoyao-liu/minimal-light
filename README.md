@@ -18,7 +18,17 @@
 
 ## Usage
 
-- Change `_config.yml` file as follows:
+To use this theme, add the following to your site's `_config.yml`:
+
+    ```yml
+    remote_theme: yaoyao-liu/minimal-academic
+    ```
+
+## Customizing
+
+### Configuration variables
+
+Change `_config.yml` file as follows:
 
   ```yaml
   title: Yaoyao Liu
@@ -33,7 +43,29 @@
   description: Yaoyao Liu is a Ph.D. student in computer science. His research lies in few-shot learning, meta learning, continual learning, and image generation.
   remote_theme: yaoyao-liu/minimal-academic
   ```
+### Editing `index.md`
 
-  
+Edit `index.md` and add your personal information (e.g. publications, research).
 
-- Edit `index.md` and add your personal information (e.g. publications, research).
+### Stylesheet
+
+If you'd like to add your own custom styles:
+
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
+
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+
+### Layouts
+
+If you'd like to change the theme's HTML layout:
+
+1. [Copy the original template](https://github.com/yaoyao-liu/minimal-academic/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/default.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
