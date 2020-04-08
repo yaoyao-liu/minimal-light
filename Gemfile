@@ -5,5 +5,3 @@ source 'https://rubygems.org'
 gemspec
 
 # ./Gemfile
-
-gem install jekyll-theme-minimal-academic
