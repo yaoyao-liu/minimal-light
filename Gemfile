@@ -6,4 +6,4 @@ gemspec
 
 # ./Gemfile
 
-gem "jekyll-theme-minimal-academic"
+gem install jekyll-theme-minimal-academic
