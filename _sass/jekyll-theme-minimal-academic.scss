@@ -9,6 +9,8 @@ body {
   margin:0
 }
 
+.social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
+
 autocolor{
   color:#494949;
 }
@@ -226,7 +228,8 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em
+  padding-top:4.0em;
+  text-align:center
 }
 
 
@@ -320,6 +323,7 @@ footer {
   position:fixed;
   bottom:30px;
   -webkit-font-smoothing:subpixel-antialiased;
+  text-align:center;
 }
 
 @media print, screen and (max-width: 960px) {

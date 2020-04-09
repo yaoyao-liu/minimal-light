@@ -16,7 +16,7 @@
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="https://unpkg.com/favicon-switcher@1.2.2/dist/index.js" crossorigin="anonymous" type="application/javascript"></script>
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
@@ -26,10 +26,9 @@
   <body>
     <div class="wrapper">
       <header>
-        <center>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="" onContextMenu="return false" /></a>
+        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
         {% endif %}
 
         <h1>{{ site.title }}</h1> 
@@ -44,7 +43,6 @@
         {{ site.email }}</p>
         {% endif %}
 
-      </center>
       </header>
       <section>
 
@@ -56,10 +54,6 @@
 
       </section>
       <footer>
-        <center>
-        <style>
-        .social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
-        </style>
         <div class="social-icons">
 
           {% if site.linkedin %}
@@ -78,12 +72,9 @@
           </a>
           {% endif %}
         </div>
-
-
         <br>
         <br>
         <br>
-        </center>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
