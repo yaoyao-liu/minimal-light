@@ -4,6 +4,8 @@
 [![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
 [![jekyll](https://img.shields.io/badge/built%20with-Jekyll-orange)](https://jekyllrb.com/)
 
+[Demo the theme](https://minimal-academic.yyliu.net/)
+
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use the source code anywhere you like.*
