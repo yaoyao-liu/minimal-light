@@ -3,6 +3,7 @@
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-orange.svg)](https://jekyllrb.com/)
+[![Build Status](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic.svg?branch=master)](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic)
 
 [Demo the theme](https://minimal-academic.yyliu.net/)
 
