@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="{{ site.title }}">
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
@@ -15,9 +17,6 @@
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
 
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
@@ -55,15 +54,22 @@
         .social-icons a{display:inline-block;height:3rem;width:3rem;background-color:#495057;color:#fff!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.1rem;margin-right:1rem}.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#000000}
         </style>
         <div class="social-icons">
+
+          {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank">
             <i class="fab fa-linkedin-in"></i>
           </a>
+          {% endif %}
+          {% if site.google_scholar %}
           <a href="{{ site.google_scholar}}" target="_blank">
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>                
+          </a>
+          {% endif %}
+          {% if site.github_link %}            
           <a href="{{ site.github_link }}" target="_blank">
             <i class="fab fa-github"></i>
           </a>
+          {% endif %}
         </div>
 
 
