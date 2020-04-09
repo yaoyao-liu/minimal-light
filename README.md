@@ -16,7 +16,9 @@
 - Support Markdown 
 - Support dark mode
 
-## Usage on GitHub 
+## Usage
+
+### Using on GitHub 
 
 To use this theme, add the following to your site's `_config.yml`:
 
@@ -24,7 +26,7 @@ To use this theme, add the following to your site's `_config.yml`:
 remote_theme: yaoyao-liu/minimal-academic
 ```
 
-## Usage with Jekyll
+### Using with Jekyll
 
 *You need to install Ruby and Jekyll fisrt.*
 
