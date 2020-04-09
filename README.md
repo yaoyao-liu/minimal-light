@@ -26,6 +26,7 @@ To use this theme, add the following to your site's `_config.yml`:
 ```yaml
 remote_theme: yaoyao-liu/minimal-academic
 ```
+You can also simply for the demo repository (<https://github.com/yaoyao-liu/minimal-academic-demo>) and edit it.
 
 ### Using with Jekyll
 
