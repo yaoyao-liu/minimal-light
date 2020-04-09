@@ -52,17 +52,19 @@ View the live page using `localhost`:
 Minimal Academic theme will respect the following variables, if set in your site's `_config.yml`:
 
   ```yaml
-  title: Yaoyao Liu
-  affiliation: MPI for Informatics
-  email: yaoyao.liu (at) mpi-inf.mpg.de
-  google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-  github_link: https://github.com/yaoyao-liu/
-  linkedin: https://www.linkedin.com/in/liuyaoyao/
-  avatar: /assets/img/avatar.png
-  favicon: /assets/img/favicon.png
-  favicon_dark: /assets/img/favicon-dark.png
-  description: Yaoyao Liu is a Ph.D. student in computer science. His research lies in few-shot learning, meta learning, continual learning, and image generation.
-  remote_theme: yaoyao-liu/minimal-academic
+title: Your Name
+affiliation: Your Affiliation
+email: yourname (at) example.edu
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/yaoyao-liu/minimal-academic
+linkedin: https://www.linkedin.com/
+avatar: ./assets/img/avatar.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Academic is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-academic.yyliu.net/
+remote_theme: yaoyao-liu/minimal-academic
   ```
 ### Editing `index.md`
 
