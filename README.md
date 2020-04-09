@@ -26,7 +26,7 @@ remote_theme: yaoyao-liu/minimal-academic
 
 ## Usage with Jekyll
 
-*You need to install Ruby and Jekyll fisrt*
+*You need to install Ruby and Jekyll fisrt.*
 
 Clone this repository:
 
