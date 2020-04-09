@@ -22,7 +22,7 @@ layout: default
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] ***Oral Presentation***
+  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
@@ -78,13 +78,13 @@ layout: default
 
 - **Multi-Class Incremental Learning**
   <br>
-  [School of Computer Science and Engineering](http://scse.ntu.edu.sg/), [Nanyang Technological University](http://www.ntu.edu.sg/)
+  School of Computer Science and Engineering, Nanyang Technological University
   <br>
   Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  [School of Computing](http://comp.nus.edu.sg/), [National University of Singapore](http://nus.edu.sg/)
+  School of Computing, National University of Singapore
   <br>
   Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
 
