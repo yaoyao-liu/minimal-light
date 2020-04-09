@@ -16,13 +16,32 @@
 - Support Markdown 
 - Support dark mode
 
-## Usage
+## Usage on GitHub 
 
 To use this theme, add the following to your site's `_config.yml`:
 
 ```yaml
 remote_theme: yaoyao-liu/minimal-academic
 ```
+
+## Usage with Jekyll
+
+*You need to install Ruby and Jekyll fisrt*
+
+Clone this repository:
+
+```bash
+git clone https://github.com/yaoyao-liu/minimal-academic.git
+cd minimal-academic
+```
+Install and run:
+
+```bash
+bundle install
+bundle exec jekyll server
+```
+View the live page using `localhost`:
+<http://localhost:4000>. You can get html files in `_site` folder.
 
 ## Customizing
 
