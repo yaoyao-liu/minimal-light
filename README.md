@@ -74,3 +74,11 @@ If you'd like to change the theme's HTML layout:
 ## License
 
 This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE) License.
+
+## Acknowledgements
+
+Our project use the source code from the following repositories:
+
+* [pages-themes/minimal](https://github.com/pages-themes/minimal)
+
+* [orderedlist/minimal](https://github.com/orderedlist/minimal)
