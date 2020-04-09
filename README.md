@@ -29,7 +29,7 @@ remote_theme: yaoyao-liu/minimal-academic
 
 ### Using with Jekyll
 
-*You need to install Ruby and Jekyll fisrt.*
+*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
 
 Clone this repository:
 
