@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
-[![jekyll](https://img.shields.io/badge/built%20with-Jekyll-orange)](https://jekyllrb.com/)
+[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.7-orange.svg)](https://jekyllrb.com/)
 
 [Demo the theme](https://minimal-academic.yyliu.net/)
 
@@ -28,7 +28,6 @@ To use this theme, add the following to your site's `_config.yml`:
 ```yaml
 remote_theme: yaoyao-liu/minimal-academic
 ```
-You can also simply fork the demo repository (<https://github.com/yaoyao-liu/minimal-academic-demo>) and edit it.
 
 ### Using with Jekyll
 
