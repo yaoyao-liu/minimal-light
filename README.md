@@ -53,6 +53,7 @@ If you'd like to add your own custom styles:
 
 1. Create a file called `/assets/css/style.scss` in your site
 2. Add the following content to the top of the file, exactly as shown:
+
     ```scss
     ---
     ---
