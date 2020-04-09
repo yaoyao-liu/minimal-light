@@ -66,8 +66,8 @@ If you'd like to add your own custom styles:
 
 If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-academic/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
+1. [Copy the original template](https://github.com/yaoyao-liu/minimal-academic/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/homepage.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
 
