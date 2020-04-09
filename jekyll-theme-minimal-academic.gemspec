@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-minimal-academic'
-  s.version       = '1.0.1'
+  s.version       = '1.0.2'
   s.license       = 'CC0-1.0'
   s.authors       = ['Yaoyao Liu', 'MPI for Informatics']
   s.email         = ['yaoyao.liu@mpi-inf.mpg.de']
