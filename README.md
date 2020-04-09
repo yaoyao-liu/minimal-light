@@ -20,7 +20,7 @@
 
 To use this theme, add the following to your site's `_config.yml`:
 
-    ```yml
+    ```yaml
     remote_theme: yaoyao-liu/minimal-academic
     ```
 
