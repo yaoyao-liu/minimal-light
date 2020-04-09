@@ -18,7 +18,7 @@ layout: homepage
 
 - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
   <br>
-  **Yaoyao Liu**, [Yuting Su](https://www.iti-tju.org/#/people/suyutingEnglish), [An-An Liu](https://www.iti-tju.org/#/people/liuananEnglish), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/), [Qianru Sun](https://qianrusun1015.github.io/)
+  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
   <br>
@@ -26,7 +26,7 @@ layout: homepage
 
 - **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
   <br>
-  Xinzhe Li, [Qianru Sun](https://qianrusun1015.github.io/), **Yaoyao Liu**, [Shibao Zheng](https://icne.sjtu.edu.cn/info/1045/1059.htm), Qin Zhou, [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
   <br>
   33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
@@ -34,7 +34,7 @@ layout: homepage
 
 - **Meta-Transfer Learning for Few-Shot Learning**
   <br>
-  [Qianru Sun](https://qianrusun1015.github.io/)\*, **Yaoyao Liu\***, [Tat-Seng Chua](https://www.chuatatseng.com/), [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/people/bernt-schiele/)
+  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
   <br>
   IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
   <br>
