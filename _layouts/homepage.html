@@ -33,12 +33,13 @@
         {% endif %}
 
         <h1>{{ site.title }}</h1> 
-        <p>{{ site.affiliation }}
-        <br>
+        <p>
         {% if site.position %}
         {{ site.position }}
         <br>
         {% endif %}
+        {{ site.affiliation }}
+        <br>
         {% if site.email %}
         {{ site.email }}</p>
         {% endif %}
