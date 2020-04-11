@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = 'jekyll-minimal-light'
-  s.version       = '1.0.7'
+  s.name          = 'minimal-light'
+  s.version       = '1.0.0'
   s.license       = 'CC0-1.0'
   s.authors       = ['Yaoyao Liu', 'MPI for Informatics']
   s.email         = ['yaoyao.liu@mpi-inf.mpg.de']
