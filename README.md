@@ -1,11 +1,11 @@
-# The Minimal Academic Theme
+# The Minimal Light Theme
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
-[![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light)](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)
+[![gem](https://img.shields.io/gem/v/jekyll-minimal-light)](https://rubygems.org/gems/jekyll-minimal-light)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg)](https://jekyllrb.com/)
 [![Build Status](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic.svg?branch=master)](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic)
 
-[Demo the theme](https://minimal-academic.yyliu.net/)
+[Demo the theme](https://minimal-light.yyliu.net/)
 
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
@@ -37,8 +37,8 @@ remote_theme: yaoyao-liu/minimal-academic
 Clone this repository:
 
 ```bash
-git clone https://github.com/yaoyao-liu/minimal-academic.git
-cd minimal-academic
+git clone https://github.com/yaoyao-liu/minimal-light.git
+cd minimal-light
 ```
 Install and run:
 
@@ -60,15 +60,15 @@ title: Your Name
 affiliation: Your Affiliation
 email: yourname (at) example.edu
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-academic
+github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: The Minimal Academic is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-academic.yyliu.net/
-remote_theme: yaoyao-liu/minimal-academic
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
   ```
 ### Editing `index.md`
 
@@ -93,14 +93,14 @@ If you'd like to add your own custom styles:
 
 If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-academic/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
 2. Create a file called `/_layouts/homepage.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
 
 ## License
 
-This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE) License.
+This work is licensed under a [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) License.
 
 ## Acknowledgements
 
