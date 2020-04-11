@@ -11,8 +11,6 @@
 <br>
 *Feel free to use the source code anywhere you like.*
 
-![Thumbnail](https://raw.githubusercontent.com/yaoyao-liu/minimal-academic/master/thumbnail.png)
-
 ## Features
 
 - Simple and elegant personal homepage theme
@@ -27,7 +25,7 @@
 To use this theme, add the following to your site's `_config.yml`:
 
 ```yaml
-remote_theme: yaoyao-liu/minimal-academic
+remote_theme: yaoyao-liu/minimal-light
 ```
 
 ### Using with Jekyll
