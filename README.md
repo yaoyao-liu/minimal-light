@@ -1,4 +1,4 @@
-# The Minimal Academic Theme
+# The Minimal Academic Jekyll Theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-academic/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/jekyll-theme-minimal-academic)](https://rubygems.org/gems/jekyll-theme-minimal-academic)
