@@ -7,8 +7,6 @@
 
 [Demo the theme](https://minimal-light.yyliu.net/)
 
-[Demo the theme](https://minimal-light.yyliu.net/)
-
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use the source code anywhere you like.*
