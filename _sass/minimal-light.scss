@@ -38,10 +38,6 @@ papertitle {
         color: #dadbdf;
     }
 
-    h3, h4, h5, h6 {
-      color:#dadbdf;
-    }
-
     autocolor{
       color:#dadbdf;
     }
@@ -135,16 +131,6 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
-  font-weight: 500;
-}
-
-h2 {
-  font-weight: 500;
-}
-
-h3, h4, h5, h6 {
-  color:#494949;
-  font-weight: 500;
 }
 
 a {
@@ -217,6 +203,16 @@ dt {
 
 th {
   color:#444;
+}
+
+@media (prefers-color-scheme: dark) {
+  th {
+    color:rgb(62, 183, 240);
+  }
+
+  dt {
+    color:rgb(62, 183, 240);
+  }
 }
 
 img {
