@@ -6,4 +6,3 @@ bundle exec jekyll build
 bundle exec htmlproofer ./_site --check-html --check-sri
 bundle exec rubocop -D
 bundle exec script/validate-html
-gem build minimal-light.gemspec
