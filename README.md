@@ -1,5 +1,6 @@
 # The Minimal Light Theme
 
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light)](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/jekyll-minimal-light)](https://rubygems.org/gems/jekyll-minimal-light)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg)](https://jekyllrb.com/)
 [![Build Status](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic.svg?branch=master)](https://travis-ci.com/yaoyao-liu/jekyll-minimal-academic)
