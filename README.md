@@ -7,9 +7,7 @@
 [![Build Status](https://travis-ci.com/yaoyao-liu/minimal-light.svg?branch=master)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
 [Demo the theme](https://minimal-light.yyliu.net/)
-
-[Try another Jekyll theme: Strata Academic](https://github.com/yaoyao-liu/strata-academic)
-
+ 
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use or share the source code anywhere you like.*
