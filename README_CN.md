@@ -8,7 +8,7 @@
 
 \[[在线演示](https://minimal-light.yyliu.net/)\] \[[🇺🇸 English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md)\]
  
-*这个项目包含我主页的源代码. 基于GitHub官方主题之一[minimal](https://github.com/orderedlist/minimal)创建.*
+*这个项目包含我主页的源代码. 基于GitHub官方主题之一[minimal](https://github.com/orderedlist/minimal)创建*
 <br>
 *如果您喜欢这个项目，欢迎您使用和分享*
 
