@@ -1,4 +1,4 @@
-# The Minimal Light Theme
+# The Minimal Light theme
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-academic)](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)
 [![gem](https://img.shields.io/gem/v/minimal-light)](https://rubygems.org/gems/minimal-light)
