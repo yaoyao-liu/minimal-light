@@ -22,8 +22,8 @@ Elbaz a specialist in information security and Linux systems, He has experience 
 - **[Dec 2018 - Present]** Assistant Vice President of Scientific Research, Al-Aqsa University
 - **[Sep 2018 - Dec 2018]** Head of Networks and Mobiles Department, Faculty of Computers and information Technology, Al-aqsa Uviversity
 - **[Jan 2016 – Jan 2017]**	Assistant Prof. in Information Security Engineering Department, University College of Applied Sciences (UCAS) – Gaza (Part Time).
-- **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology | Al-aqsa Uviversity
-- **[May 2004 - Apr 2015]** Lecturer at Computer Science Department | Al-Aqsa University
+- **[May 2015 - Present]** Assistan Prof. at  Faculty of Computers and information Technology, Al-aqsa Uviversity
+- **[May 2004 - Apr 2015]** Lecturer at Computer Science Department, Al-Aqsa University
 
 
 ## News
