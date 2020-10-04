@@ -10,8 +10,10 @@ Dr. Elbaz a specialist in information security and Linux systems, He has experie
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Security:** Cryptography, Authentication, Privacy, Data security, Network security, Cryptanalysis
+- **Cloud Computing:** Cloud security, AWS security, Cloud Management
+- **Cyber Security:** Penetration testing, Ethical hacking, Incidence response, Vulnerability assessment, IoT security 
+- **DevOps:** Agile, Docker, Kubernetes, Ansible, Continuous integrity, Continuous delivery, Microservices
 
 ## News
 
