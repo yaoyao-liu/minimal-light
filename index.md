@@ -2,6 +2,12 @@
 layout: homepage
 ---
 
+## Biography
+
+Hazem Elbaz received his B.Sc. and M.Sc. in Computer Science from the IU Gaza, Palestine, in 2001. In 2004, he received his M.Sc. in Computer Engneering from the Near East University, Turkey. During his M.Sc., Elbaz worked with Fahreddin Sadikoglu Mammadov on analysis and developing Elliptic Curve Cryptography algorithm. Elbaz received his Ph.D from Ain-Shams University of Computer and Information Systems, Egypt, in Cloud Computing Security with Excellent  in 2015.
+He is currently an Assistant Professor in the Networks and Mobiles Department at Faculty of Computers and Information Technology, Alaqsa University, Gaza, Palestine. He is a researcher. His research interests include Cloud Computing Security, Network Security, Information Security.
+Dr. Elbaz a specialist in information security and Linux systems, He has experience in penetration testing on different systems, contribute and work to improve and enrich the Arabic content in the field of information security.
+
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
