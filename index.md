@@ -15,6 +15,11 @@ Dr. Elbaz a specialist in information security and Linux systems, He has experie
 - **Cyber Security:** Penetration testing, Ethical hacking, Incidence response, Vulnerability assessment, IoT security 
 - **DevOps:** Agile, Docker, Kubernetes, Ansible, Continuous integrity, Continuous delivery, Microservices
 
+## Experinces
+
+- **[Feb 2019 - Present]** Assistant Vice President of Scientific Research
+
+
 ## News
 
 - **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
