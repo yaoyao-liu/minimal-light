@@ -6,7 +6,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square)](https://jekyllrb.com/)
 [![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
-\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[🇨🇳 简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_Zh.md)\]
+\[[Demo the theme](https://minimal-light.yyliu.net/)\]  \[[🇨🇳 简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh.md)\]
  
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
