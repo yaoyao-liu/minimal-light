@@ -6,7 +6,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square)](https://jekyllrb.com/)
 [![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
-\[[在线演示](https://minimal-light.yyliu.net/)\] \[[🇺🇸🇬🇧 English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md)\]
+\[[在线演示](https://minimal-light.yyliu.net/)\] \[[English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md)\]
  
 *这个项目包含我主页的源代码. 基于GitHub官方主题之一[minimal](https://github.com/orderedlist/minimal)创建*
 <br>
