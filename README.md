@@ -31,7 +31,7 @@ To use this theme, add the following to your repository's `_config.yml`:
 remote_theme: yaoyao-liu/minimal-light
 ```
 
-Please note that adding the above line will directly apply all the default settings in this repository to your repository.
+Please note that adding the above line will directly apply all the default settings in this repository to yours.
 
 If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
