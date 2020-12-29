@@ -16,6 +16,7 @@
 
 - Simple and elegant personal homepage theme
 - Jekyll theme, deploy automatically by GitHub pages
+- Basic Search Engine Optimization
 - Mobile friendly
 - Support Markdown 
 - Support dark mode
