@@ -30,6 +30,32 @@ To use this theme, add the following to your site's `_config.yml`:
 remote_theme: yaoyao-liu/minimal-light
 ```
 
+Please note that adding the above line will directly apply all the default settings in this repository to your site.
+
+If you hope to edit any file (e.g., `index.md`), you still need to copy it to your site.
+
+You may also fork this repository and change the repository's name to `your-username.github.io`.
+
+#### Using custom domain on GitHub
+
+Add a `CNAME` DNS record to your domain as follows:
+```
+Host: whatever you want. e.g., "www" or "@"
+Target / Canonical name: your-username.github.io.
+TTL: 10 min
+```
+You may also add an `A` DNS record instead of the `CNAME` record as follows:
+```
+Host: whatever you want. e.g., "www" or "@"
+IP: 185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+TTL: 10 min
+```
+
+Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
+
 ### Using with Jekyll
 
 *You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
