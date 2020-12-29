@@ -25,15 +25,15 @@
 
 ### Using on GitHub 
 
-To use this theme, add the following to your site's `_config.yml`:
+To use this theme, add the following to your repository's `_config.yml`:
 
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
 ```
 
-Please note that adding the above line will directly apply all the default settings in this repository to your site.
+Please note that adding the above line will directly apply all the default settings in this repository to your repository.
 
-If you hope to edit any file (e.g., `index.md`), you still need to copy it to your site.
+If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
 You may also fork this repository and change the repository's name to `your-username.github.io`.
 
