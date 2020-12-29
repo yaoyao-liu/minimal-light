@@ -72,7 +72,7 @@ remote_theme: yaoyao-liu/minimal-light
   ```
 ### Editing `index.md`
 
-Edit `index.md` and add your personal information (e.g. publications, research).
+Create `index.md` and add your personal information (e.g. publications, research).
 
 ### Stylesheet
 
