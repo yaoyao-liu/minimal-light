@@ -57,7 +57,7 @@ TTL: 10 min
 
 Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
 
-### Using with Jekyll
+### Using Locally with Jekyll
 
 *You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
 
