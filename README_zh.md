@@ -55,7 +55,7 @@ TTL: 10 min
 ```
 然后，编辑这个仓库中 [CNAME](./CNAME) 文件的内容为你自定义的域名。
 
-### 通过Jekyll使用
+### 通过Jekyll在本地使用
 
 *首先你需要安装[Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/).*
 
