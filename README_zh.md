@@ -71,7 +71,7 @@ remote_theme: yaoyao-liu/minimal-light
   ```
 ### 编辑 `index.md`
 
-编辑`index.md`并添加你的个人信息(如：发表的论文，研究课题等).
+创建`index.md`并添加你的个人信息(如：发表的论文，研究课题等).
 
 ### 网页样式（CSS)
 
