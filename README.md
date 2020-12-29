@@ -40,7 +40,7 @@ You may also fork this repository and change the repository's name to `your-user
 
 Add a `CNAME` DNS record to your domain as follows:
 ```
-Host: whatever you want. e.g., "www" or "@"
+Host: whatever you want. e.g., "www" 
 Target / Canonical name: your-username.github.io.
 TTL: 10 min
 ```
