@@ -37,7 +37,7 @@ If you hope to edit any files (e.g., `index.md`), you still need to copy them to
 
 You may also fork this repository and change the repository's name to `your-username.github.io`.
 
-#### Using custom domain on GitHub
+#### Using a custom domain on GitHub
 
 Add a `CNAME` DNS record to your domain as follows:
 ```
