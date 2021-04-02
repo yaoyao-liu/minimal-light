@@ -57,7 +57,7 @@ TTL: 10 min
 
 ### 通过Jekyll在本地使用
 
-*首先你需要安装[Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/).*
+*首先你需要安装[Ruby](https://www.ruby-lang.org/en/)和[Jekyll](https://jekyllrb.com/).*
 
 克隆这个项目:
 
