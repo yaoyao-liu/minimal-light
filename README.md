@@ -35,7 +35,7 @@ Please note that adding the above line will directly apply all the default setti
 
 If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
-You may also fork this repository and change the repository's name to `your-username.github.io`.
+You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
 #### Using a custom domain on GitHub
 
