@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>{{ site.title }} | {{site.affiliation}}</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    {% if site.keywords %}
+    <meta name="keywords" content="{{ site.keywords }}">
+    {% endif %}
+    {% if site.canonical %}
+    <link rel="canonical" href="{{ site.canonical }}"/>
+    {% endif %}
+
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
+
+    <link rel="stylesheet" href="./assets/css/style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        
+        {% if site.avatar %}
+        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+        {% endif %}
+
+        <h1>{{ site.title }}</h1> 
+        
+        {% if site.position %}
+        {{ site.position }}
+        <br>
+        {% endif %}
+        {{ site.affiliation }}
+        {% if site.email %}
+        <br>
+        {{ site.email }}
+        <br>
+        <br>
+        {% endif %}
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      <br>
+
+      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+
+      </section>
+      <footer>
+        <div class="social-icons">
+
+          {% if site.linkedin %}
+          <a href="{{ site.linkedin }}" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          {% endif %}
+          {% if site.google_scholar %}
+          <a href="{{ site.google_scholar}}" target="_blank">
+            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          </a>
+          {% endif %}
+          {% if site.github_link %}            
+          <a href="{{ site.github_link }}" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          {% endif %}
+        </div>
+        <br>
+        <br>
+        <br>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>
