@@ -72,7 +72,8 @@ bundle install
 bundle exec jekyll server
 ```
 在`localhost`预览网页:
-<http://localhost:4000>. You can get the html files in `_site` folder.
+<http://localhost:4000>. 
+你可以在`_site`文件夹中找到html文件.
 
 ## 自定义内容
 
