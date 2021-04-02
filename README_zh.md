@@ -33,7 +33,7 @@ remote_theme: yaoyao-liu/minimal-light
 
 如果你希望编辑任何文件（例如：`index.md`)，你仍需要把该文件拷贝到你的项目中。
 
-你也可以直接fork这个仓库，然后把仓库的名字改为`your-username.github.io`.
+你也可以直接fork这个仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，然后把名字改为`your-username.github.io`.
 
 #### 在GitHub上使用自定义域名
 
