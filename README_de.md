@@ -7,7 +7,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?style=flat-square)](https://jekyllrb.com/)
 [![Build Status](https://img.shields.io/travis/com/yaoyao-liu/minimal-light?style=flat-square)](https://travis-ci.com/yaoyao-liu/minimal-light)
 
-\[[Demo des Themas](https://minimal-light.yyliu.net/)\]  \[[English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) | [简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md)\]
+\[[Demo des Themas](https://minimal-light.yyliu.net/)\]  \[[English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) | [简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md)\]
  
 *Dies ist der Quellcode meiner Homepage. Ich baue diese Website basierend auf [minimal](https://github.com/orderedlist/minimal).*
 <br>
