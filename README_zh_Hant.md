@@ -1,4 +1,4 @@
-### 這份說明文檔僅將文字從簡體中文轉化為繁體中文，並沒有針對繁體中文地區的名詞和使用習慣進行優化。如果有錯誤或者表述不清楚的內容，可以參照[英文版本](https://github.com/yaoyao-liu/minimal-light/blob/main/README.md)。歡迎通過[pull request](https://github.com/yaoyao-liu/minimal-light/pulls)更正該文檔。
+### 這份說明文檔僅將文字從簡體中文轉化為繁體中文，並沒有針對繁體中文地區的名詞和使用習慣進行優化。如果有錯誤或者表述不清楚的內容，可以參照[英文版本](https://github.com/yaoyao-liu/minimal-light/blob/main/README.md)。歡迎通過 [pull requests](https://github.com/yaoyao-liu/minimal-light/pulls) 更正該文檔。
 
 # Minimal Light 主題
 
