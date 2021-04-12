@@ -8,23 +8,23 @@
 
 \[[在线演示](https://minimal-light.yyliu.net/)\] \[[English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md)\]
  
-*这个项目包含我主页的源代码. 基于GitHub官方主题之一[minimal](https://github.com/orderedlist/minimal)创建*
+*这个项目包含我主页的源代码. 基于 GitHub 官方主题之一 [minimal](https://github.com/orderedlist/minimal) 创建*
 <br>
 *如果您喜欢这个项目，欢迎您使用和分享*
 
 ## 项目特点
 
 - 简单优雅的学术个人主页模板
-- 基于Jekyll, 可以在GitHub Pages服务下自动部署
+- 基于 Jekyll, 可以在 GitHub Pages 服务下自动部署
 - 基本的搜索引擎优化
 - 移动端适配
-- 支持Markdown
+- 支持 Markdown
 - 支持自动的暗黑模式
 
 ## 使用指南
 ### 在GitHub上使用
 
-只要在你的项目中添加如下内容的`_config.yml`文件，GitHub Pages服务就会使用该主题部署网页:
+只要在你的项目中添加如下内容的`_config.yml`文件，GitHub Pages 服务就会使用该主题部署网页:
 
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
@@ -33,11 +33,11 @@ remote_theme: yaoyao-liu/minimal-light
 
 如果你希望编辑任何文件（例如：`index.md`)，你仍需要把该文件拷贝到你的项目中。
 
-你也可以直接fork这个仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，然后把名字改为`your-username.github.io`.
+你也可以直接 fork 这个仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，然后把名字改为`your-username.github.io`.
 
 #### 在GitHub上使用自定义域名
 
-在你的DNS设置中添加如下的`CNAME`解析记录：
+在你的 DNS 设置中添加如下的`CNAME`解析记录：
 
 ```
 Host: 根据需求自定义，例如： "www" 
@@ -57,7 +57,7 @@ TTL: 10 min
 
 ### 通过Jekyll在本地使用
 
-*首先你需要安装[Ruby](https://www.ruby-lang.org/en/)和[Jekyll](https://jekyllrb.com/).*
+*首先你需要安装 [Ruby](https://www.ruby-lang.org/en/) 和 [Jekyll](https://jekyllrb.com/).*
 
 克隆这个项目:
 
@@ -73,7 +73,7 @@ bundle exec jekyll server
 ```
 在`localhost`预览网页:
 <http://localhost:4000>. 
-你可以在`_site`文件夹中找到html文件.
+你可以在`_site`文件夹中找到 html 文件.
 
 ## 自定义内容
 
@@ -102,7 +102,7 @@ remote_theme: yaoyao-liu/minimal-light
 
 ### 网页样式（CSS)
 
-如果你需要修改网页的风格（基于CSS）:
+如果你需要修改网页的风格（基于 CSS）:
 
 1. 在你的项目中创建`/assets/css/style.scss`文件
 2. 在该文件的顶端加入如下内容:
@@ -113,20 +113,20 @@ remote_theme: yaoyao-liu/minimal-light
 
     @import "{{ site.theme }}";
     ```
-3. 在`@import`那一行添加自定义CSS(或Sass)格式
+3. 在`@import`那一行添加自定义 CSS (或 Sass)格式
 
-### 网页样式（基于html）
+### 网页样式（基于 html）
 
-如果你需要修改网页的html样式:
+如果你需要修改网页的 html 样式:
 
 1. 从本项目中[复制原始模板](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html)<br />(*小提示: 点击"raw"可以直接显示原始文件, 拷贝起来更方便*)
 2. 在你的项目中创建`/_layouts/homepage.html`文件
 3. 把第一步中复制的原始模板粘贴进去
-4. 根据自己的需求修改html文件
+4. 根据自己的需求修改 html 文件
 
 ## 许可证
 
-这个项目使用[Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE)许可证.
+这个项目使用 [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) 许可证.
 
 ## 致谢
 
