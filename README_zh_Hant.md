@@ -116,7 +116,7 @@ remote_theme: yaoyao-liu/minimal-light
     ```
 3. 在`@import`那一行添加自定義 CSS (或 Sass)格式
 
-### 网页样式（基于 html）
+### 網頁樣式（基于 html）
 
 如果你需要修改網頁的 html 樣式:
 
