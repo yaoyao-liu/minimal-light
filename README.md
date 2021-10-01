@@ -36,6 +36,8 @@ If you hope to edit any files (e.g., `index.md`), you still need to copy them to
 
 You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
+Then you need to enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+
 #### Using a custom domain on GitHub
 
 Add a `CNAME` DNS record to your domain as follows:
