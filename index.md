@@ -48,4 +48,4 @@ I am a Ph.D. student at ...
 
 - Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
 - Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Journal Reviewers: [T-PAMI](https://www.computer.org/csdl/journal/tp), and [IJCV](https://www.springer.com/journal/11263).
