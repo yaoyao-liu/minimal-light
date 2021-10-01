@@ -34,6 +34,8 @@ remote_theme: yaoyao-liu/minimal-light
 
 你也可以直接 fork 这个仓库(或者[使用这个仓库作为模板](https://docs.github.com/cn/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template))，然后把名字改为`your-username.github.io`.
 
+然后，你可以根据[这里的说明](https://docs.github.com/cn/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)开启这个仓库的GitHub Pages服务。
+
 #### 在GitHub上使用自定义域名
 
 在你的 DNS 设置中添加如下的`CNAME`解析记录：
