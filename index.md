@@ -46,5 +46,5 @@ I am a Ph.D. student at ...
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, and CVPR 2020.
-- Journal Reviewers: T-PAMI, and IJCV.
+- Conference Reviewers: NeurIPS 2020, CVPR 2020.
+- Journal Reviewers: T-PAMI, IJCV.
