@@ -34,7 +34,9 @@ Bitte beachten Sie, dass durch Hinzufügen der obigen Zeile alle Standardeinstel
 
 Wenn Sie Dateien bearbeiten möchten (z. B. `index.md`), müssen Sie sie dennoch in Ihr Repository kopieren. 
 
-Sie können dieses Repository auch verzweigen (oder [Verwenden Sie dieses Repository als Vorlage](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) und ändern Sie den Namen in `your-username.github.io`.
+Sie können dieses Repository auch verzweigen (oder [Verwenden Sie dieses Repository als Vorlage](https://docs.github.com/de/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) und ändern Sie den Namen in `your-username.github.io`.
+
+Dann müssen Sie die GitHub-Seiten für dieses Repository aktivieren, indem Sie die Schritte [hier](https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) ausführen.
 
 #### Using a custom domain on GitHub
 
