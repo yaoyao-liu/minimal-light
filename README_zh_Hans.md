@@ -81,21 +81,31 @@ bundle exec jekyll server
 ### 配置变量
 
 Minimal Light 主题有以下的变量, 你可以在`_config.yml`文件中修改:
-
+  
   ```yaml
+# 基本信息
 title: 你的名字
+position: Ph.D. Student
 affiliation: 你的单位
 email: yourname (at) example.edu
+
+# 搜索引擎优化 (SEO)
+keywords: minimal academic
+description: 在这里输入网页描述.
+canonical: https://minimal-light.yyliu.net/
+
+# 链接
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
+
+# 图片路径
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: 在这里输入网页描述.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
+
+# Google Analytics ID
+google_analytics: UA-111540567-4
   ```
 ### 编辑 `index.md`
 
