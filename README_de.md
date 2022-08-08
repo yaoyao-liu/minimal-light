@@ -85,19 +85,33 @@ Zeigen Sie die Live-Seite mit `localhost` an:
 Das Minimal Light-Thema berücksichtigt die folgenden Variablen, wenn es in der `_config.yml` Ihrer Site festgelegt ist:
 
   ```yaml
-title: Dein Name
+# Grundinformation
+title: Ihren Namen
+position: Ph.D. Student
 affiliation: Ihre Zugehörigkeit
 email: yourname (at) example.edu
+
+# Suchmaschinenoptimierung (SEO)
+# Die folgenden Informationen werden verwendet, um den Website-Traffic von Suchmaschinen, z. B. Google, zu verbessern.
+keywords: minimal academic
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+
+# Verknüpfungen
+# Wenn Sie eine davon nicht benötigen, können Sie die entsprechende Zeile löschen.
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
+
+# Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
+# "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
+
+# Google Analytics ID
+# Bitte entfernen Sie dies, wenn Sie Google Analytics nicht verwenden
+google_analytics: UA-111540567-4
   ```
 ### Bearbeiten von `index.md`
 
