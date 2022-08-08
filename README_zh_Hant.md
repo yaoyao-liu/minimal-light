@@ -85,19 +85,29 @@ bundle exec jekyll server
 Minimal Light 主題有以下的變量, 你可以在`_config.yml`文件中修改:
 
   ```yaml
+# 基本信息
 title: 你的名字
+position: Ph.D. Student
 affiliation: 你的單位
 email: yourname (at) example.edu
+
+# 搜索引擎優化 (SEO)
+keywords: minimal academic
+description: 在這裡輸入網頁描述.
+canonical: https://minimal-light.yyliu.net/
+
+# 鏈接
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
+
+# 圖片路徑
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: 在這裡輸入網頁描述.
-canonical: https://minimal-light.yyliu.net/
-remote_theme: yaoyao-liu/minimal-light
+
+# Google Analytics ID
+google_analytics: UA-111540567-4
   ```
 ### 編輯 `index.md`
 
