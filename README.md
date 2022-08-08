@@ -86,19 +86,46 @@ View the live page using `localhost`:
 The Minimal Light theme will respect the following variables, if set in your site's `_config.yml`:
 
   ```yaml
+# Basic Information 
 title: Your Name
+position: Ph.D. Student
 affiliation: Your Affiliation
 email: yourname (at) example.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: minimal academic
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.png
-google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light.yyliu.net/
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+
 remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
   ```
 ### Editing `index.md`
 
