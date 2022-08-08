@@ -113,19 +113,6 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
-
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
   ```
 ### Editing `index.md`
 
