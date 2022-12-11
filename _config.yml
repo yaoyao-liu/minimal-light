@@ -24,8 +24,8 @@ avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Footnotes
-footnote: Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.
+# Footnote
+enable_footnote: true
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
