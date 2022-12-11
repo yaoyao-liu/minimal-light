@@ -2,9 +2,7 @@
 
 # Minimal Light 主題
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
-[![gem](https://img.shields.io/gem/v/minimal-light?logo=rubygems&color=E9573F)](https://rubygems.org/gems/minimal-light)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.5-orange.svg?logo=jekyll)](https://jekyllrb.com/)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
 \[[在線演示](https://minimal-light.yyliu.net/)\] \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
  
