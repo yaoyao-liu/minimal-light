@@ -19,7 +19,7 @@
 - Support Markdown 
 - Support dark mode
 
-### Project Architecture
+## Project Architecture
 
 ```
 .
