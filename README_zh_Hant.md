@@ -38,26 +38,6 @@ remote_theme: yaoyao-liu/minimal-light
 
 然後，你可以根據[這裡的說明](https://docs.github.com/cn/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site)開啟這個倉庫的GitHub Pages服務。
 
-#### 在GitHub上使用自定義域名
-
-在你的 DNS 設置中添加如下的`CNAME`解析記錄：
-
-```
-Host: 根據需求自定義，例如： "www" 
-Target / Canonical name: your-username.github.io.
-TTL: 10 min
-```
-你也可以添加如下的`A`解析記錄（如果無法使用`CNAME`記錄的話）：
-```
-Host: 根據需求自定義，例如 "www" 或 "@"
-IP: 185.199.108.153
-    185.199.109.153
-    185.199.110.153
-    185.199.111.153
-TTL: 10 min
-```
-然後，編輯這個倉庫中 [CNAME](./CNAME) 文件的內容為你自定義的域名。
-
 ### 通過Jekyll在本地使用
 
 *首先你需要安裝 [Ruby](https://www.ruby-lang.org/en/) 和 [Jekyll](https://jekyllrb.com/).*
@@ -98,8 +78,10 @@ canonical: https://minimal-light.yyliu.net/
 
 # 鏈接
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+cv_link: files/Curriculum_Vitae.pdf
+github_link: https://github.com/
 linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
 # 圖片路徑
 avatar: ./assets/img/avatar.png

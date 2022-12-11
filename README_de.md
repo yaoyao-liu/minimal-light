@@ -38,26 +38,6 @@ Sie können dieses Repository auch verzweigen (oder [Verwenden Sie dieses Reposi
 
 Dann müssen Sie die GitHub-Seiten für dieses Repository aktivieren, indem Sie die Schritte [hier](https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) ausführen.
 
-#### Using a custom domain on GitHub
-
-Fügen Sie Ihrer Domain einen `CNAME`-DNS-Eintrag wie folgt hinzu: 
-```
-Host: irgendwas du willst. z.B., "www" 
-Target / Canonical name: your-username.github.io.
-TTL: 10 min
-```
-Sie können anstelle des `CNAME`-Eintrags auch einen DNS-Eintrag `A` wie folgt hinzufügen:
-```
-Host: irgendwas du willst. z.B., "www" or "@"
-IP: 185.199.108.153
-    185.199.109.153
-    185.199.110.153
-    185.199.111.153
-TTL: 10 min
-```
-
-Ändern Sie dann den Inhalt der Datei [CNAME](./CNAME) in diesem Repository in Ihre Domain.
-
 ### Lokal mit Jekyll verwenden
 
 *Sie müssen [Ruby](https://www.ruby-lang.org/en/) und [Jekyll](https://jekyllrb.com/) fisrt installieren.*
@@ -100,8 +80,10 @@ canonical: https://minimal-light.yyliu.net/
 # Verknüpfungen
 # Wenn Sie eine davon nicht benötigen, können Sie die entsprechende Zeile löschen.
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+cv_link: files/Curriculum_Vitae.pdf
+github_link: https://github.com/
 linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
 # "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.

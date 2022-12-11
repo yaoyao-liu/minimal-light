@@ -40,26 +40,6 @@ You may also fork this repository (or [use this repository as a template](https:
 
 Then you need to enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
-#### Using a custom domain on GitHub
-
-Add a `CNAME` DNS record to your domain as follows:
-```
-Host: whatever you want. e.g., "www" 
-Target / Canonical name: your-username.github.io.
-TTL: 10 min
-```
-You may also add an `A` DNS record instead of the `CNAME` record as follows:
-```
-Host: whatever you want. e.g., "www" or "@"
-IP: 185.199.108.153
-    185.199.109.153
-    185.199.110.153
-    185.199.111.153
-TTL: 10 min
-```
-
-Then, change the contents of the [CNAME](./CNAME) file in this repository to your domain.
-
 ### Using Locally with Jekyll
 
 *You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
@@ -101,8 +81,10 @@ canonical: https://minimal-light.yyliu.net/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+cv_link: files/Curriculum_Vitae.pdf
+github_link: https://github.com/
 linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 

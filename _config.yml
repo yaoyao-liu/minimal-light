@@ -13,8 +13,10 @@ canonical: https://minimal-light.yyliu.net/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
+cv_link: files/Curriculum_Vitae.pdf
+github_link: https://github.com/
 linkedin: https://www.linkedin.com/
+twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
