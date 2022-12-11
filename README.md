@@ -19,6 +19,28 @@
 - Support Markdown 
 - Support dark mode
 
+### Project Architecture
+
+```
+.
+├── _layouts                  
+|   └── homepage.html            #  the html template for the homepage 
+├── _sass                     
+|   └── minimal-light.scss       #  this file will be compiled into a CSS file to control the style of the page
+├── assets                       #  some JavaScript files and images
+├── .gitignore                   #  this file specifies intentionally untracked files that Git should ignore
+├── CNAME                        #  the custom domain, will be used by GitHub page sevice
+├── Gemfile                      #  a RubyGems related file
+├── LICENSE                      #  the license file
+├── README.md                    #  the readme file (English)
+├── README_de.md                 #  the readme file (German)
+├── README_zh_Hans.md            #  the readme file (Simplified Chinese)
+├── README_zh_Hant.md            #  the readme file (Traditional Chinese)
+├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
+├── index.md                     #  the content of the index page, using Markdown
+└── minimal-light.gemspec        #  another RubyGems related file
+```
+
 ## Usage
 
 ### Using on GitHub 
