@@ -21,6 +21,7 @@
 
 ```
 .
+├── _includes                    # the Markdown files for publications and services  
 ├── _layouts                  
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
