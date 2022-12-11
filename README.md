@@ -26,8 +26,7 @@
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
 |   └── minimal-light.scss       #  this file will be compiled into a CSS file to control the style of the page
-├── assets                       #  some JavaScript files and images
-├── files                        #  some example files
+├── assets                       #  some files
 ├── .gitignore                   #  this file specifies intentionally untracked files that Git should ignore
 ├── CNAME                        #  the custom domain, will be used by GitHub page sevice
 ├── Gemfile                      #  a RubyGems related file
