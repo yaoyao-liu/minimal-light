@@ -67,9 +67,9 @@ affiliation: 你的单位
 email: yourname (at) example.edu
 
 # 搜索引擎优化 (SEO)
-keywords: minimal academic
+keywords: minimal light
 description: 在这里输入网页描述.
-canonical: https://minimal-light.yyliu.net/
+canonical: https://minimal-light-theme.yliu.me/
 
 # 链接
 google_scholar: https://scholar.google.com/
