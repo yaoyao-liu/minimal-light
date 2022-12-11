@@ -117,7 +117,7 @@ google_analytics: UA-111540567-4
   ```
 ### Editing `index.md`
 
-Create `index.md` and add your personal information (e.g. publications, research).
+Create `index.md` and add your personal information (e.g., publications, research).
 
 ### Stylesheet
 
