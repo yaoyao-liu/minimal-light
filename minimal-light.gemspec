@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name          = 'minimal-light'
-  s.version       = '1.0.0'
+  s.version       = '1.0.3'
   s.license       = 'CC0-1.0'
   s.authors       = ['Yaoyao Liu', 'MPI for Informatics']
   s.email         = ['yaoyao.liu@mpi-inf.mpg.de']
@@ -14,7 +14,6 @@ Gem::Specification.new do |s|
   end
 
   s.platform = Gem::Platform::RUBY
-  s.required_ruby_version = '~> 2.4'
   s.add_runtime_dependency 'jekyll', '> 3.5', '< 5.0'
   s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
   s.add_development_dependency 'html-proofer', '~> 3.0'
