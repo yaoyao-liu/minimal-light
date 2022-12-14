@@ -14,8 +14,8 @@
 - Jekyll theme, deploy automatically by GitHub pages
 - Basic Search Engine Optimization
 - Mobile friendly
-- Support Markdown 
-- Support dark mode
+- Supporting Markdown 
+- Supporting dark mode
 
 ## Project Architecture
 
