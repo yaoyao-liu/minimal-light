@@ -8,6 +8,10 @@
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
+The latest version of my homepage is available here: <https://github.com/yaoyao-liu/yaoyao-liu.github.io>
+<br>
+A template for Max Planck Institute for Informatics is available here: <https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf>
+
 ## Features
 
 - Simple and elegant personal homepage theme
