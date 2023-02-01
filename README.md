@@ -40,8 +40,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ├── README_zh_Hans.md            #  the readme file (Simplified Chinese)
 ├── README_zh_Hant.md            #  the readme file (Traditional Chinese)
 ├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
-├── index.md                     #  the content of the index page, using Markdown
-└── minimal-light.gemspec        #  another RubyGems related file
+└── index.md                     #  the content of the index page, using Markdown
 ```
 
 ## Usage
