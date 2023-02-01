@@ -15,7 +15,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ## Features
 
 - Simple and elegant personal homepage theme
-- Jekyll theme, deploy automatically by GitHub pages
+- Jekyll theme, automatically deployed by GitHub Pages
 - Basic Search Engine Optimization
 - Mobile friendly
 - Supporting Markdown 
