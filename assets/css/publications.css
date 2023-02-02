@@ -18,14 +18,13 @@
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
 }
 
-:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #00369f; --global-hover-color: #ffb81c; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
+:root { --global-bg-color: #ffffff; --global-code-bg-color: rgba(181, 9, 172, 0.05); --global-text-color: #000000; --global-text-color-light: #828282; --global-theme-color: #002D72; --global-hover-color: #ffb81c; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #828282; }
 
 @media (prefers-color-scheme: dark) { :root { --global-theme-color: rgb(36, 150, 203);}}
 
-
-
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
+@media print, screen and (min-width: 960px) {.col-sm-9 {width: 100%;}}
 
 .publications { margin-top: 2rem; }
 
