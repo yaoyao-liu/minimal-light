@@ -25,7 +25,9 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 
 ```
 .
-├── _includes                    # the Markdown files for publications and services  
+├── _includes                    
+|   ├── publications.md          # the Markdown files for publications
+|   └── services.md              # the Markdown files for services
 ├── _layouts                  
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
@@ -43,10 +45,24 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 └── index.md                     #  the content of the index page, using Markdown
 ```
 
-## Usage
+## Getting Started
 
-### Using on GitHub 
+This template can be used in the following two ways: 
+- **Using with the GitHub Pages Service.** GitHub will provide you with a server to generate and host web pages.
+- **Using locally with Jekyll.** You may install Jekyll on your own computer and generate static web pages (i.e., HTML files) with this template. After that, you may upload the HTML files to your server.
+The detailed instructions are available below.
 
+
+### Using with the GitHub Pages Service
+
+There are two ways to use this template on GitHub:
+
+#### Fork this repository
+- Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
+
+- Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+
+#### Using this repository as a remote theme
 To use this theme, add the following to your repository's `_config.yml`:
 
 ```yaml
@@ -57,15 +73,11 @@ Please note that adding the above line will directly apply all the default setti
 
 If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
-You may also fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
-
-Then you need to enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
-
 ### Using Locally with Jekyll
 
-*You need to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/) fisrt.*
+First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
 
-Clone this repository:
+Then, clone this repository:
 
 ```bash
 git clone https://github.com/yaoyao-liu/minimal-light.git
@@ -117,33 +129,23 @@ favicon_dark: ./assets/img/favicon-dark.png
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
   ```
-### Editing `index.md`
+### Edit `index.md`
 
-Create `index.md` and add your personal information (e.g., publications, research).
+Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.
+
+### Edit included files
+
+There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
+https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
+
 
 ### Stylesheet
 
-If you'd like to add your own custom styles:
-
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+If you'd like to add your own custom styles, you may edit `_sass/minimal-light.scss`.
 
 ### Layouts
 
-If you'd like to change the theme's HTML layout:
-
-1. [Copy the original template](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/homepage.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
+If you'd like to change the theme's HTML layout, you may edit `_layout/homepage.html`.
 
 ## License
 
