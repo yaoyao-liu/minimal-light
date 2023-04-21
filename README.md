@@ -50,6 +50,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 This template can be used in the following two ways: 
 - **Using with the GitHub Pages Service.** GitHub will provide you with a server to generate and host web pages.
 - **Using locally with Jekyll.** You may install Jekyll on your own computer and generate static web pages (i.e., HTML files) with this template. After that, you may upload the HTML files to your server.
+
 The detailed instructions are available below.
 
 
