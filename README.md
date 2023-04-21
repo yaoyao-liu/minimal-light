@@ -26,8 +26,8 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ```
 .
 ├── _includes                    
-|   ├── publications.md          # the Markdown files for publications
-|   └── services.md              # the Markdown files for services
+|   ├── publications.md          # the Markdown file for publications
+|   └── services.md              # the Markdown file for services
 ├── _layouts                  
 |   └── homepage.html            #  the html template for the homepage 
 ├── _sass                     
