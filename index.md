@@ -10,4 +10,3 @@ I'm interested in software engineering research. Currently, my main interests ar
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
