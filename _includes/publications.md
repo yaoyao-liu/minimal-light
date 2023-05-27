@@ -32,7 +32,7 @@
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002245">Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002245">Comparison of Multi-Criteria Decision-Making Methods for Online Controlled Experiments in a Launch Decision-Making Framework</a></div>
     <div class="author"><strong>Wu, Jie JW</strong>, Thomas A. Mazzuchi, and Shahram Sarkani</div>
     <div class="periodical"><em>Information and Software Technology 155 (2023): 107115.</em></div>
     <div class="links">
