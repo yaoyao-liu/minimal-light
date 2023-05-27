@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">A Multi-Objective Evolutionary Approach Towards Automated Online Controlled Experiments</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0164121223000985">A Multi-Objective Evolutionary Approach Towards Automated Online Controlled Experiments</a></div>
     <div class="author"><strong>Wu, Jie JW</strong>, Thomas A. Mazzuchi, and Shahram Sarkani</div>
     <div class="periodical"><em>Journal of Systems and Software, 2023. (Accepted, to appear)</em></div>
     <div class="links">
@@ -20,14 +20,19 @@
       <a href="https://github.com/jw-wu-git/movsw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
-
+</div>
+</li>
+  
+<li>
+<div class="pub-row">
+  
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">LDM</abbr>
   </div>
   
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework</a></div>
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002245">Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework</a></div>
     <div class="author"><strong>Wu, Jie JW</strong>, Thomas A. Mazzuchi, and Shahram Sarkani</div>
     <div class="periodical"><em>Information and Software Technology 155 (2023): 107115.</em></div>
     <div class="links">
