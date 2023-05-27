@@ -8,19 +8,31 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">MOVSW</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">A Multi-Objective Evolutionary Approach Towards Automated Online Controlled Experiments</a></div>
+    <div class="author"><strong>Wu, Jie JW</strong>, Thomas A. Mazzuchi, and Shahram Sarkani</div>
+    <div class="periodical"><em>Journal of Systems and Software, 2023. (Accepted, to appear)</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4252209" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">pre-print PDF</a>
+      <a href="https://github.com/jw-wu-git/movsw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">LDM</abbr>
+  </div>
+  
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework</a></div>
+    <div class="author"><strong>Wu, Jie JW</strong>, Thomas A. Mazzuchi, and Shahram Sarkani</div>
+    <div class="periodical"><em>Information and Software Technology 155 (2023): 107115.</em></div>
+    <div class="links">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4072566" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">pre-print PDF</a>
+      <a href="https://github.com/jw-wu-git/ldm-framework" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
