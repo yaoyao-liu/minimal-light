@@ -3,20 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-
-I am a Ph.D. student at ...
+My name is _**J**ie **W**u_. My undergraduate study (ACM Honors Class) and master study were done at Shanghai Jiao Tong University. I recieved my PhD in System Engineering at George Washington University. I am a software engineer at Snap Inc. 
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I'm interested in software engineering research. Currently, my main interests are AI4SE (AI for Software Engineering) and Evaluation of Software (such as online and offline A/B testing, evalulation of recommender systems, etc.).
 
 {% include_relative _includes/publications.md %}
 
