@@ -47,7 +47,7 @@
     <abbr class="badge">Offline Sketch Parsing</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b85a7a3088f76f600b29fd0475ee659cd1109e92">Offline Sketch Parsing via Shapeness Estimation</a></div>
+    <div class="title"><a href="https://www.ijcai.org/Proceedings/15/Papers/173.pdf">Offline Sketch Parsing via Shapeness Estimation</a></div>
     <div class="author"><strong>Wu, Jie JW</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
     <div class="periodical"><em> IJCAI. Vol. 15. 2015. (M.S. Thesis)</em></div>
   </div>
