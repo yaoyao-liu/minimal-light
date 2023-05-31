@@ -10,7 +10,12 @@ My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and ma
 I have experiences in industrial software development. I am currently a software engineer at [Snap Inc.](https://snap.com/en-US) 
 
 ## Research Interests
-I'm interested in software engineering research. I develop new approaches to simplify the complicated and sometimes tedious process of software development in a more systematic, formalized way. This has led me into areas such as AI4SE (AI for Software Engineering) and Evaluation of Software, such as online and offline A/B testing, evalulation of recommender systems, decision making from business and software perspectives, etc.
+In the era of Big Data and AI, I develop new approaches to simplify the complicated, time-comsuming and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are
+* automated techniques 
+* AI4SE (AI for Software Engineering) 
+* software evaluation 
+
+that better understand and assist the decision-making of software developers and other roles within the enterprises.
 
 {% include_relative _includes/publications.md %}
 
