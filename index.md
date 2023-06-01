@@ -12,9 +12,9 @@ I have experiences in industrial software development. I am currently a software
 ## Research Interests
 In the era of Big Data and AI, I develop new approaches to simplify the complicated, time-consuming and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are a) ***automated techniques***, b) ***AI4SE***, and c) ***software evaluation*** that assist the decision-making of software developers and other roles within the enterprises. My previous experiences include but not limited to the following areas:
 - Automated tooling to assist developers or end users
-- Search-based software engineering (SBSE, evolutionary algorithms) 
+- Search-based software engineering (evolutionary algorithms) 
 - Data-driven decision-making (multi-criteria decision making)
-- Online and offline A/B testing
+- Continuous data-driven software engineering (online and offline A/B testing)
 - Recommender system (evaluation, candidate generation, ranking)
 - Applied machine learning 
 
