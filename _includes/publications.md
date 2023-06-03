@@ -2,7 +2,21 @@
 
 <div class="publications">
 <ol class="bibliography">
-
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/dissertation.JPG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Dissertation</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.proquest.com/docview/2784774986?fromopenview=true&pq-origsite=gscholar">Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments</a></div>
+    <div class="author"><strong>Wu, Jie JW</strong></div>
+    <div class="periodical"><em>Ph.D. Dissertation</em></div>
+  </div>
+</div>
+</li>
+  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
