@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the Department of Statistics at the University of British Columbia.
+I am currently a fourth-year PhD Candidate in the department of Statistics at the University of British Columbia, supervised by Prof. Harry Joe. Prior to that, I completed
+my master's degree under the supervision of Prof. Christian Genest and obtained my Bachelor's degree in the program of Joint honours Economics and Finance of McGill University.
 
 ## Research Interests
 
-- **Multivariate analysis
-- **Extreme value theory
-- **Quantitative risk management
+- **Dependence modeling with copula**
+- **Extreme value theory**
+- **Quantitative risk management**
 
 ## News
 
