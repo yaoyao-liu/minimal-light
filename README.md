@@ -98,7 +98,7 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
 
-### Using HTML version
+### Using the HTML version
 
 The compiled HTML files are available in the `html_source_file` folder. If you donn't like Jekyll 
 
