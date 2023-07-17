@@ -151,7 +151,8 @@ Create `index.md` and add your personal information. It supports **Markdown** an
 There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
 https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
 
-If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`
+If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
+https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
 
 
 ### Stylesheet
