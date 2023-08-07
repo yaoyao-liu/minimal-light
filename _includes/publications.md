@@ -2,7 +2,22 @@
 
 <div class="publications">
 <ol class="bibliography">
+
   
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/v.JPG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Vee Process Model</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Application of Systems Engineering Process in ML-Enabled Systems </div>
+    <div class="author"><strong>Wu, Jie JW</strong></div>
+    <div class="periodical"><em>Arxiv (Coming Soon)</em></div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
