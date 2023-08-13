@@ -11,9 +11,9 @@
     <abbr class="badge">Vee Process Model</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Application of Systems Engineering Process in ML-Enabled Systems </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.05381.pdf">Application of Systems Engineering Process in ML-Enabled Systems</a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em>Arxiv (Coming Soon)</em></div>
+    <div class="periodical"><em>Arxiv</em></div>
   </div>
 </div>
 </li>
