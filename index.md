@@ -9,9 +9,10 @@ My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and ma
 
 I have experience in industrial software development. I was a software engineer at [Snap Inc.](https://snap.com/en-US) and Microsoft in the Greater Seattle Area. 
 
-[[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Proposal (Postdoc Application)]](https://jie-jw-wu.github.io/assets/ResearchProposalJW.pdf)
-
 **I'm actively looking for research opportunities in academia and industry. Do not hesitate to contact me for any opportunity to collaborate!**
+
+***Postdoc Application***: [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Proposal]](https://jie-jw-wu.github.io/assets/ResearchProposalJW.pdf)
+
 
 ## Research Interests
 In the era of Big Data and Generative AI, I develop new approaches to simplify the complicated, time-consuming, and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are a) ***AI4SE*** and b) ***SE4AI*** within the context of Large Language Models (LLM), Machine Learning (ML), and Data as a component to assist, systematize and automate the decision-making of software developers and other roles within the enterprises. My previous experiences include but are not limited to the following areas:
