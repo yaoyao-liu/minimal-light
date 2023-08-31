@@ -9,6 +9,8 @@ My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and ma
 
 I have experience in industrial software development. I was a software engineer at [Snap Inc.](https://snap.com/en-US) and Microsoft in the Greater Seattle Area. 
 
+[Resume](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [Research Proposal for Postdoc](https://jie-jw-wu.github.io/assets/ResearchProposalJW.pdf)
+
 **I'm actively looking for research opportunities in academia and industry. Do not hesitate to contact me for any opportunity to collaborate!**
 
 ## Research Interests
