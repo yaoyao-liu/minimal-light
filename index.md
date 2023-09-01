@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+<p style="font-family: Roboto Condensed"> I'm a Marie Skłodowska-Curie postdoctoral research fellow at Edinburgh University. You can read about my project 'GRASP: Greater Awareness of Social Pragmatics in Ageing' below.	
+										
+		Prior to this fellowship I was a postdoctoral researcher at the Max Planck Institute for Psycholinguistics examining multimodal communication in interactive settings and a postdoc at the University of Oslo exploring referential communication across various populations, languages, and ages. My PhD thesis (at Edinburgh Uni) examined the cognitive mechanisms underlying perspective-taking over the lifespan and the impact of later-life language learning on cognitive ageing. 
+
+										</p></font>
 
 ## Research Interests
 
