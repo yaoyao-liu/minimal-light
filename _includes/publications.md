@@ -41,6 +41,9 @@
     <div class="title"><a href="https://www.proquest.com/docview/2784774986?fromopenview=true&pq-origsite=gscholar">Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments</a></div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em>Ph.D. Dissertation</em></div>
+    <div class="links">
+      <a href="https://jie-jw-wu.github.io/assets/jw_ldm_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+    </div>
   </div>
 </div>
 </li>
@@ -76,6 +79,7 @@
     <div class="links">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4072566" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="https://github.com/jw-wu-git/ldm-framework" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://jie-jw-wu.github.io/assets/jw_ldm_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
     </div>
   </div>
 </div>
@@ -100,7 +104,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/online_sketch.JPG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/smart_visio.JPG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SmartVisio</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
