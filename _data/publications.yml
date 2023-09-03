@@ -1,14 +1,9 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: The role of cognitive control and referential complexity on adults' choice of referring expressions: Testing and expanding the referential complexity scale
+    authors: <strong>Madeleine Long</strong>, Hannah Rohde, Michelle Oraa-Ali, Paula Rubio-Fernández
+    conference: Journal of Experimental Psychology: Learning, Memory, and Cognition
+    link: https://pubmed.ncbi.nlm.nih.gov/37561512/
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
