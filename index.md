@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-My original first name is _**Jie (杰 in Chinese)**_. Please see this [link](https://en.wiktionary.org/wiki/ji%C3%A9) with audio to learn how to pronounce Jie ("JEE-yeh" is pretty close). 
+My original first name is _**杰 (Jie)**_. Please see this [link](https://en.wiktionary.org/wiki/ji%C3%A9) with audio to learn how to pronounce Jie ("JEE-yeh" is pretty close). 
 
 My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and master study were done both in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/). I received my PhD in System Engineering at [George Washington University](https://www.seas.gwu.edu/). My PhD dissertation is titled ["Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments"](https://www.proquest.com/docview/2784774986?pq-origsite=gscholar&fromopenview=true). I was a research intern at [Google Research](https://research.google/) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I publish under "Jie JW Wu". 
 
