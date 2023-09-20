@@ -108,7 +108,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ijcai.org/Proceedings/15/Papers/173.pdf">Offline Sketch Parsing via Shapeness Estimation </a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
+    <div class="author"><strong>Wu, Jie</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
     <div class="periodical"><em> IJCAI. Vol. 15. 2015. (long paper, acceptance rate:28.6%) (M.S. Thesis)</em></div>
   </div>
 </div>
@@ -124,7 +124,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/8834">Sketch Recognition with Natural Correction and Editing
 </a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
+    <div class="author"><strong>Wu, Jie</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
     <div class="periodical"><em>Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 28. No. 1. 2014. (long paper, acceptance rate:28.0%) (M.S. Thesis)</em></div>
     <div class="links">
       <a href="https://www.dropbox.com/home?preview=SmartVisio.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
@@ -142,7 +142,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/2647868.2654864?casa_token=lyEKrPVNz8IAAAAA:h6Nlo2TP0QQ0flP_PJS4JPhw_N33pL52h8ccaLZTi_wmLCSPqsrY87iJN-K4oMOIR2dGDl8GFnF6">Smartvisio: Interactive sketch recognition with natural correction and editing
 </a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
+    <div class="author"><strong>Wu, Jie</strong>, Changhu Wang, Liqing Zhang, Yong Rui</div>
     <div class="periodical"><em>Proceedings of the 22nd ACM international conference on Multimedia. 2014. (demo paper) (M.S. Thesis)</em></div>
     <div class="links">
       <a href="https://www.dropbox.com/home?preview=SmartVisio.mp4" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
@@ -159,7 +159,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/6738038?casa_token=n1QUS7-HQccAAAAA:3f9qqCCkVQt0ru4nZE86HH05d6FqpuRMQ3fy4olgeygcssFj6ETRFKhqW9uXJzxiXt-qgOUc">Gestalt saliency: Salient region detection based on gestalt principles</a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Liqing Zhang</div>
+    <div class="author"><strong>Wu, Jie</strong>, Liqing Zhang</div>
     <div class="periodical"><em>2013 IEEE International Conference on Image Processing. IEEE, 2013. (B.S. Thesis)</em></div>
   </div>
 </div>
@@ -173,7 +173,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/2487788.2487906">Numeric query ranking approach</a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Yi Liu, Ji-Rong Wen</div>
+    <div class="author"><strong>Wu, Jie</strong>, Yi Liu, Ji-Rong Wen</div>
     <div class="periodical"><em>Proceedings of the 22nd International Conference on World Wide Web. 2013. (poster paper) </em></div>
   </div>
 </div>
@@ -187,7 +187,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-642-24955-6_84">Removing unrelated features based on linear dynamical system for motor-imagery-based brain-computer interface</a></div>
-    <div class="author"><strong>Wu, Jie JW</strong>, Li-Chen Shi, Bao-Liang Lu</div>
+    <div class="author"><strong>Wu, Jie</strong>, Li-Chen Shi, Bao-Liang Lu</div>
     <div class="periodical"><em>Neural Information Processing: 18th International Conference, ICONIP 2011, Shanghai, China, November 13-17, 2011, Proceedings, Part I 18. Springer Berlin Heidelberg, 2011. </em></div>
   </div>
 </div>
