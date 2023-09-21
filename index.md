@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 My original first name is _**杰 (Jie)**_. Please see this [link](https://en.wiktionary.org/wiki/ji%C3%A9) with audio to learn how to pronounce Jie ("JEE-yeh" is pretty close). 
 
-My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and master study were done both in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/). I received my PhD in System Engineering at [George Washington University](https://www.seas.gwu.edu/). My PhD dissertation is titled ["Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments"](https://www.proquest.com/docview/2784774986?pq-origsite=gscholar&fromopenview=true). I was a research intern at [Google Research](https://research.google/) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I publish under "Jie JW Wu". 
+My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and master study were done both in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/). I received my PhD in Systems Engineering at [George Washington University](https://www.seas.gwu.edu/). My PhD dissertation is titled ["Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments"](https://www.proquest.com/docview/2784774986?pq-origsite=gscholar&fromopenview=true). I was a research intern at [Google Research](https://research.google/) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I publish under "Jie JW Wu". 
 
-I have experience in industrial software development. I was a software engineer at [Snap Inc.](https://snap.com/en-US) and Microsoft in the Greater Seattle Area. 
+I have experience in industrial software development. I was a software engineer at [Snap Inc.](https://snap.com/en-US) and [Microsoft](https://www.microsoft.com/en-us/) in the Greater Seattle Area. 
 
 **I'm actively looking for research opportunities in academia and industry. I'm open to new projects and topics. Do not hesitate to contact me for any opportunity to collaborate!**
 
