@@ -40,7 +40,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2308.13507.pdf">Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em>(short paper) (Under Review)</em></div>
+    <div class="periodical"><em>Arxiv. (short paper) (Under Review)</em></div>
   </div>
 </div>
 </li>
