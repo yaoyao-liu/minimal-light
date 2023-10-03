@@ -34,20 +34,6 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/llm_communication.JPG" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">LLM Communication</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.13507.pdf">Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models </a> </div>
-    <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em>Arxiv. (short paper) (Under Review)</em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/v.JPG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Vee Process Model</abbr>
   </div>
@@ -55,6 +41,20 @@
     <div class="title"><a href="https://arxiv.org/pdf/2308.05381.pdf">Application of Systems Engineering Process in ML-Enabled Systems</a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em>Arxiv. (long paper) (Under Review)</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/llm_communication.JPG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">LLM Communication</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2308.13507.pdf">Does Asking Clarifying Questions Increases Confidence in Generated Code? On the Communication Skills of Large Language Models </a> </div>
+    <div class="author"><strong>Wu, Jie JW</strong></div>
+    <div class="periodical"><em>In Proceedings of the 7th Annual Symposium on Machine Programming (MAPS ’23) (short paper) (Accepted)</em></div>
   </div>
 </div>
 </li>
