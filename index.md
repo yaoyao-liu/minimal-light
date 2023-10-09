@@ -11,7 +11,7 @@ I have experience in industrial software development. I was a software engineer 
 
 **I'm actively looking for research opportunities in academia and industry. I'm open to new projects and topics. Do not hesitate to contact me for any opportunity to collaborate!**
 
-***Postdoc Application***: [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Proposal]](https://jie-jw-wu.github.io/assets/ResearchProposalJW.pdf)
+***Postdoc Application***: [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Statement (2-page)]](https://jie-jw-wu.github.io/assets/research-statement-jw.pdf) [[Research Proposal]](https://jie-jw-wu.github.io/assets/ResearchProposalJW.pdf)
 
 
 ## Research Interests
