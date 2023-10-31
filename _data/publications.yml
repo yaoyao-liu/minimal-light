@@ -1,22 +1,55 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: SMPNet: An Algorithmic Framework for Loneliness Detection and Mitigation in Social Media
+    authors: <strong>Sumukh Venkatesh</strong>, Jack Yin*, Grace Sng, Raghav Aggarwal (*Corresponding authors)
+    conference_short: URTC
+    conference: IEEE MIT Undergraduate Research Technology Conference <strong>(URTC)</strong>, 2023.
+    pdf: https://drive.google.com/file/d/1MGsSumcILvTPWgIFG0-7JBJDumxzFdI0
+    code: https://github.com/SilverCobra-prog/sstp_loneliness_classifiers
+    image: ./assets/img/teaser_example_2.png
+    notes: Presented, in press
+
+  - title: Classification of Maternal Health Risks Using Novel Machine Learning Methods
+    authors: <strong>Sumukh Venkatesh</strong>, Himani Jha*, Sohail Zaidi, Farwa Kazmi (*Corresponding authors)
+    conference_short: EHB
+    conference: Springer International Conference on e-Health and Bioengineering <strong>(EHB)</strong>, 2023.
+    pdf: https://drive.google.com/file/d/1eg9cv_d0UPntJIX_VBqQmINAYeFPjjg5/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/maternal_health_classifier
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Analyzing Healthcare Coverage in the United States Using Multivariate Machine Learning Models
+    authors: <strong>Sumukh Venkatesh*</strong>, Hongseok Namkoong (*Corresponding authors) 
+    conference_short: ICHIH
+    conference: IEEE International Conference on Health Big Data and Intelligent Healthcare <strong>(ICHIH)</strong>, 2023.
+    pdf: https://drive.google.com/file/d/1RU7JDYYjq4kFXOMF--zW0L73XFgBRTlp/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/healthcare-coverage-analysis
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
+
+  - title: Deep Learning for Lung Cancer Diagnosis: Leveraging CNNs for Accurate Classification and Early Detection
+    authors: <strong>Sumukh Venkatesh*</strong>
+    journal_short: CAI2024
+    journal: Journal of Emerging Investigators <strong>(CAI2024)</strong>, 2024.
+    pdf: https://drive.google.com/file/d/17yHUANZSFSfo4fpu298sBPvjBXtoN3hd/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/lung_cancer_cnn
+    image: ./assets/img/teaser_example_2.png
+    notes: Accepted pending edits
+
+  - title: ClimateSafeHomes: Using Machine Learning to Predict Home Price Changes Due to Climate Change
+    authors: <strong>Sumukh Venkatesh*</strong>, Rishit Agrawal, Prajwal Vandana (*Corresponding authors)
+    conference_short: CAI2024
+    conference: IEEE Conference On Artificial Intelligence <strong>(CAI2024)</strong>, 2024.
+    pdf: https://drive.google.com/file/d/19qWoxFXQn2ZR3SSAOxgfwUYy_47KeCan/view?usp=drive_link
+    code: https://github.com/RishitAgrawal06/climate_house_price
+    image: ./assets/img/teaser_example_2.png
+    notes: Submitted
+
+  - title: Predicting Grants for Hurricane Affected Homeowners Using Machine Learning Methods
+    authors: <strong>Sumukh Venkatesh*</strong>, Sohail Zaidi (*Corresponding authors)
+    conference_short: IFoRE
+    conference: International Forum on Research Excellence, Powered by Sigma Xi <strong>(IFoRE)</strong>, 2023.
+    pdf: https://drive.google.com/file/d/1h9qhkPEnHMxBbbveqiZigycUPvgpJPP-/view?usp=drive_link
+    code: https://github.com/SilverCobra-prog/grant-prediction
+    image: ./assets/img/teaser_example_2.png
+    notes: Poster, abstract accepted
