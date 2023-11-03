@@ -1,14 +1,6 @@
 main:
 
-  - title: 	Z.H. He, X.X. Wang, Y.F. Zhao, Eigenvalues of Quaternion Tensors with Applications to Color Video Processing. Journal of Scientific Computing. 94 (2023)
-    authors:   #<strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: JSC
-    conference: Journal of Scientific Computing, 94(2023).
-   pdf: https://doi.org/10.1007/s10915-022-02058-5
-    code: https://github.com/MrGiovanni/ContinualLearning
-   # bibtex: https://bib.yliu.me/MICCAI23.txt
-   # image: ./assets/img/teaser_example_2.png
-   # notes: Early Accept
+ 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
