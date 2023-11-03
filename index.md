@@ -77,6 +77,8 @@ layout: homepage
 -	The First NU-SIBAU International Workshop on Matrix Theory and Its Applications, hosted by the Department of Mathematics at Sukkur IBA University, Pakistan and the Department of Mathematics at Naresuan University, Thailand, October 15-17, 2021 (Virtual).
 -	The 2021 China-Korea International Conference on Matrix Theory with Applications & the 6th International Workshop on Matrix Inequalities and Matrix Equations (IRCTMT-AORC Joint Meeting & MIME 2021), Hainan Normal University, Hainan, China, and Shanghai University, China, November 26-27, 2021 (Virtual).
 
+## Work Experience
+- 06/2023-08/2023: Co-Requisite Assessment Program, University of Nevada, Reno.
 
 
 {% include_relative _includes/services.md %}
