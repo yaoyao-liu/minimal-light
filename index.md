@@ -6,7 +6,7 @@ layout: homepage
 
 
 ## Education
-- **2021-Now**	 *Tabspace* Ph.D. student in Mathematics Department of Mathematics and Statistics, University of Nevada, Reno. GPA: 4 (out of 4)
+- **2021-Now**	 &emsp; Ph.D. student in Mathematics Department of Mathematics and Statistics, University of Nevada, Reno. GPA: 4 (out of 4)
 - **2017-2020**  *Tabspace* M.Sc. in Statistics Shanghai University. Average Score: 90.25 (out of 100)
 - **2013-2017**	 *Tabspace* B.Sc. in Information and Computing Science North China University of Water Resources and Electric Power. GPA: 4.14 (out of 5)
 
