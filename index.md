@@ -24,19 +24,21 @@ I am a Ph.D. student at ...
 - 2015    National Scholarship, China. (CNY 8,000)
 - 2014    Second Prize in the Sixth National College Mathematics Competition, China.
 
-
-
 ## Research Interests
 
 - **Algebra, Matrix Theory and Applications.**  
 
-## News
+## Classes Taken
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-- 
+- Topology - Math 640
+- Numerical Analysis and Approximation I - Math 701
+- Numerical Analysis and Approximation Ⅱ- Math 702
+- Abstract and Real Analysis I - Math 713
+- Complex Function Theory - Math 715
+- Seminar in Teaching Mathematics and Statistics - Math 777
+- Numerical Linear Algebra – Math 736
+- Set Theory and Hilbert Spaces – Math 793  
+
 
 ## Teaching
 {% include_relative _includes/publications.md %}
