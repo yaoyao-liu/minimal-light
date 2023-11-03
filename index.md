@@ -41,6 +41,16 @@ I am a Ph.D. student at ...
 
 
 ## Teaching
+- Introductory Calculus for Business and Social Sciences, Spring 2022 & Summer 2023
+- Precalculus I, Fall 2022 & Spring 2023
+- Precalculus II, Winter 2023 & Summer 2023
+- Theory of Positive Integers, Fall 2021 & Fall 2023 (TA)
+## Qualifying Exams
+- Analysis   (High pass)
+-  Numerical analysis   (High pass)
+- Linear Algebra  (High pass)
+
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
