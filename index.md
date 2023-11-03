@@ -28,16 +28,16 @@ I am a Ph.D. student at ...
 
 - **Algebra, Matrix Theory and Applications.**  
 
-## Classes Taken
+## Main Classes Taken
 
-- Topology - Math 640
-- Numerical Analysis and Approximation I - Math 701
-- Numerical Analysis and Approximation Ⅱ- Math 702
-- Abstract and Real Analysis I - Math 713
-- Complex Function Theory - Math 715
-- Seminar in Teaching Mathematics and Statistics - Math 777
-- Numerical Linear Algebra – Math 736
-- Set Theory and Hilbert Spaces – Math 793  
+- Topology  
+- Numerical Analysis and Approximation I/Ⅱ 
+- Abstract and Real Analysis I 
+- Complex Function Theory 
+- Seminar in Teaching Mathematics and Statistics 
+- Numerical Linear Algebra 
+- Set Theory and Hilbert Spaces
+- Multilinear Algera
 
 
 ## Teaching
