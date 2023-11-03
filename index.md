@@ -43,6 +43,8 @@ layout: homepage
 - Precalculus I, Fall 2022 & Spring 2023
 - Precalculus II, Winter 2023 & Summer 2023
 - Theory of Positive Integers, Fall 2021 & Fall 2023 (TA)
+
+  
 ## Qualifying Exams
 - Analysis   (High pass)
 -  Numerical analysis   (High pass)
