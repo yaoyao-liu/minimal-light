@@ -49,7 +49,10 @@ layout: homepage
 - Analysis   (High pass)
 -  Numerical analysis   (High pass)
 - Linear Algebra  (High pass)
-[This is an external link to genome.gov](https://www.genome.gov/)
+ 
+## Publications
+- 	Z.H. He, X.X. Wang, Y.F. Zhao, [Eigenvalues of Quaternion Tensors with Applications to Color Video Processing.](https://doi.org/10.1007/s10915-022-02058-5) Journal of Scientific Computing. 94 (2023). 
+
 
 {% include_relative _includes/publications.md %}
 
