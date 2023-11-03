@@ -59,7 +59,23 @@ layout: homepage
 -	Q.W. Wang, X.X. Wang, [Arnoldi method for large quaternion right eigenvalue problem](https://doi.org/10.1007/s10915-020-01158-4), Journal of Scientific Computing, 82 (2020), 58 (20 pages).  
 -	G.H. Peng, X.X. Wang, Y.Z. Zhang, [Multidimensional scaling analysis based on attribute reduction of bivariate mutual information](https://doi.org/10.12988/imf.2017.610133), International Mathematical Forum, 12 (3) (2017) 111-118. 
 
+## Presentations
+- 	X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, 6th Annual GSA Poster Symposium.
+- 	X.X. Wang, Geometric means and their properties of Grassmannians, The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023.
+- 	X.X. Wang, Geometric means and their properties of Grassmannians, International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July7-8, 2023.
+- 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.
+- 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2022), Seattle, January 5-8, 2022, postponed due to COVID-19 and held virtually, April 6-9, 2022. 
 
+## Conference Attended
+-	The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023 (Virtual).
+-	International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July 7-8, 2023 (Virtual).
+-	Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.
+-	International Conference on Matrix Theory with Applications (ICMTA), Jeju, Korea, December 1-5, 2022 (Virtual).
+-	Second international workshop on Matrix Theory and Applications, hosted by the Departments of Mathematics: AKFA University-Uzbekistan, Sukkur IBA University-Pakistan, Naresuan University-Thailand and Bukhara State University-Uzbekistan, November 15-17, 2022 (Virtual).
+-	International Workshop on Matrix Analysis and Its Applications (MAA 2022), Quy Nhon, Viet Nam, June 4, 2022 (Virtual).
+-	Joint Mathematics Meetings (JMM 2022), Seattle, January 5-8, 2022, postponed due to COVID-19 and held virtually April 6-9, 2022.
+-	The First NU-SIBAU International Workshop on Matrix Theory and Its Applications, hosted by the Department of Mathematics at Sukkur IBA University, Pakistan and the Department of Mathematics at Naresuan University, Thailand, October 15-17, 2021 (Virtual).
+-	The 2021 China-Korea International Conference on Matrix Theory with Applications & the 6th International Workshop on Matrix Inequalities and Matrix Equations (IRCTMT-AORC Joint Meeting & MIME 2021), Hainan Normal University, Hainan, China, and Shanghai University, China, November 26-27, 2021 (Virtual).
 
 
 
