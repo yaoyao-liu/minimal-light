@@ -80,5 +80,7 @@ layout: homepage
 ## Work Experience
 - 06/2023-08/2023: Co-Requisite Assessment Program, University of Nevada, Reno.
 
+## Professional and University Services  
+- Nevada GAIN   Program, mentor for new graduate student, 2023	
 
 {% include_relative _includes/services.md %}
