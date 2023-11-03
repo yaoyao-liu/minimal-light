@@ -7,13 +7,13 @@ layout: homepage
 
 ## Education
 - **2021-Now**&emsp;Ph.D. student in Mathematics Department of Mathematics and Statistics,
-  &emsp;&emsp;University of Nevada, Reno. GPA: 4 (out of 4)
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;University of Nevada, Reno. GPA: 4 (out of 4)
 - **2017-2020**&emsp;M.Sc. in Statistics Shanghai University. Average Score: 90.25 (out of 100)
-- **2013-2017**&emsp;B.Sc. in Information and Computing Science North China University of Water &emsp;&emsp;Resources and Electric Power. GPA: 4.14 (out of 5)
+- **2013-2017**&emsp;B.Sc. in Information and Computing Science North China University of Water &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Resources and Electric Power. GPA: 4.14 (out of 5)
 
 ## Awards
 - 2022&emsp;Graduate Student Association (GSA) Travel Award, University of Nevada, Reno. ($500)
-- 2021&emsp;Graduate Student Association (GSA) Research Grant Award, University of Nevada, Reno. ($1,000)
+- 2021&emsp;Graduate Student Association (GSA) Research Grant Award, University of Nevada, Reno. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;($1,000)
 - 2021&emsp;Graduate Dean’s Merit Scholarship, University of Nevada, Reno. ($10,000)
 - 2020&emsp;College Graduate Excellence Award of Shanghai City, China.
 - 2018&emsp;Excellent Student Award of Shanghai University, China.
