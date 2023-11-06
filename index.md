@@ -29,21 +29,21 @@ layout: homepage
 
 ## Main Classes Taken
 
-- Topology  
-- Numerical Analysis and Approximation 
-- Abstract and Real Analysis 
-- Complex Function Theory 
-- Seminar in Teaching Mathematics and Statistics 
-- Numerical Linear Algebra 
-- Set Theory and Hilbert Spaces
-- Multilinear Algera
+- **Topology**  
+- **Numerical Analysis and Approximation** 
+- **Abstract and Real Analysis** 
+- **Complex Function Theory** 
+- **Seminar in Teaching Mathematics and Statistics** 
+- **Numerical Linear Algebra** 
+- **Set Theory and Hilbert Spaces**
+- **Multilinear Algera**
 
 
 ## Teaching
-- Introductory Calculus for Business and Social Sciences, Spring 2022 & Summer 2023
-- Precalculus I, Fall 2022 & Spring 2023
-- Precalculus II, Winter 2023 & Summer 2023
-- Theory of Positive Integers, Fall 2021 & Fall 2023 (TA)
+- **Introductory Calculus for Business and Social Sciences**, Spring 2022 & Summer 2023
+- **Precalculus I**, Fall 2022 & Spring 2023
+- **Precalculus II**, Winter 2023 & Summer 2023
+- **Theory of Positive Integers**, Fall 2021 & Fall 2023 (TA)
 
   
 ## Qualifying Exams
