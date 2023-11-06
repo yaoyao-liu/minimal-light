@@ -14,11 +14,11 @@ layout: homepage
 
 ## Awards
 - 2022&emsp;Graduate Student Association (GSA) Travel Award, University of Nevada, Reno. ($500)
-- 2021&emsp;Graduate Student Association (GSA) Research Grant Award, University of Nevada, Reno. &emsp;&emsp;&emsp;&emsp;($1,000)
+- 2021&emsp;Graduate Student Association (GSA) Research Grant Award, University of Nevada, Reno. &emsp;&emsp;&emsp;($1,000)
 - 2021&emsp;Graduate Dean’s Merit Scholarship, University of Nevada, Reno. ($10,000)
 - 2020&emsp;College Graduate Excellence Award of Shanghai City, China.
 - 2018&emsp;Excellent Student Award of Shanghai University, China.
-- 2018&emsp;Third Prize in “Huawei Cup”, the 15th China Post-Graduate Mathematical Contest in &emsp;&emsp;Modeling, Shanghai University, China.
+- 2018&emsp;Third Prize in “Huawei Cup”, the 15th China Post-Graduate Mathematical Contest in &emsp;&emsp;&emsp;Modeling, Shanghai University, China.
 - 2017&emsp;Outstanding Graduate Award of Henan Province, China.
 - 2016&emsp;“Three Good Students” Award of General Higher Education in Henan Province.
 - 2015&emsp;National Scholarship, China. (CNY 8,000)
