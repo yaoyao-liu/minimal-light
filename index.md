@@ -29,7 +29,7 @@ layout: homepage
 
 ## Main Classes Taken
 
-- **Topology** 
+- *Topology*
 - **Numerical Analysis and Approximation** 
 - **Abstract and Real Analysis** 
 - **Complex Function Theory**
