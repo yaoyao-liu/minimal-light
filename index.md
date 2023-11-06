@@ -86,3 +86,8 @@ layout: homepage
 - Nevada GAIN   Program, mentor for new graduate student, 2023	
 - Journal Reviewer: Linear and Multilinear Algebra  
 
+## Skill and Interests
+
+- Computer Skills: Excel, Word, MATLAB, LaTeX, R, Python. 
+- Other Interests: Snowboard, Hiking, Running. 
+
