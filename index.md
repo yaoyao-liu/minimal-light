@@ -9,9 +9,11 @@ Term 2
   ~ Definition 2a
   ~ Definition 2b
 
+
 Term 1
 
 :   Definition 
+
 
 ## Education
 - **2021-Now**&emsp;Ph.D. student in Mathematics Department of Mathematics and Statistics,
