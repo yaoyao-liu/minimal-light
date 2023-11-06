@@ -19,9 +19,9 @@ layout: homepage
 - 2018&emsp;Excellent Student Award of Shanghai University, China.
 - 2018&emsp;Third Prize in “Huawei Cup”, the 15th China Post-Graduate Mathematical Contest in &emsp;&emsp;Modeling, Shanghai University, China.
 - 2017&emsp;Outstanding Graduate Award of Henan Province, China.
-- 2016   &emsp; “Three Good Students” Award of General Higher Education in Henan Province.
-- 2015 &emsp;  National Scholarship, China. (CNY 8,000)
-- 2014  &emsp;  Second Prize in the Sixth National College Mathematics Competition, China.
+- 2016&emsp;“Three Good Students” Award of General Higher Education in Henan Province.
+- 2015&emsp;National Scholarship, China. (CNY 8,000)
+- 2014&emsp;Second Prize in the Sixth National College Mathematics Competition, China.
 
 ## Research Interests
 
