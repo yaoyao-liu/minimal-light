@@ -29,8 +29,8 @@ layout: homepage
 
 ## Main Classes Taken
 
-- *Topology*
-- **Numerical Analysis and Approximation** 
+- Topology
+- Numerical Analysis and Approximation
 - **Abstract and Real Analysis** 
 - **Complex Function Theory**
 - **Seminar in Teaching Mathematics and Statistics** 
@@ -52,8 +52,8 @@ layout: homepage
 - **Linear Algebra  (High pass)**
  
 ## Publications
-- 	**Z.H. He, X.X. Wang, Y.F. Zhao, [Eigenvalues of Quaternion Tensors with Applications to Color Video Processing](https://doi.org/10.1007/s10915-022-02058-5), Journal of Scientific Computing. 94 (2023).**
-- **Z.H. He, C. Navasca, X.X. Wang, [Decomposition for a quaternion tensor triplet with applications](https://doi.org/10.1007/s00006-021-01195-8), Advances in Applied Clifford Algebras, 32 (2022), 9 (19 pages).** 
+- 	Z.H. He, X.X. Wang, Y.F. Zhao, [Eigenvalues of Quaternion Tensors with Applications to Color Video Processing](https://doi.org/10.1007/s10915-022-02058-5), Journal of Scientific Computing. 94 (2023).
+- Z.H. He, C. Navasca, X.X. Wang, [Decomposition for a quaternion tensor triplet with applications](https://doi.org/10.1007/s00006-021-01195-8), Advances in Applied Clifford Algebras, 32 (2022), 9 (19 pages).
 - **Z.H. He, W.L. Qin, X.X. Wang, [Some applications of a decomposition for five quaternion matrices in control system and color image processing](https://doi.org/10.1007/s40314-021-01579-3), Computational and Applied Mathematics, 40 (2021), 205 (29 pages).**  
 - 	**S.W. Yu, Z.H. He, T.C. Qi, X.X. Wang, [The equivalence canonical form of five quaternion matrices with applications to imaging and Sylvester-type equations](https://doi.org/10.1016/j.cam.2021.113494), Journal of Computational and Applied Mathematics, 393 (2021), 113494 (20 pages).**  
 - 	**Z.H. He, C. Chen, X.X. Wang, [A simultaneous decomposition for three quaternion tensors with applications in color video signal processing](https://www.worldscientific.com/doi/10.1142/S0219530520400084), Analysis and Applications, 19 (3) (2020) 529-549.**  
