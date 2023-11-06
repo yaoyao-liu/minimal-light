@@ -68,10 +68,10 @@ layout: homepage
 - 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2022), Seattle, January 5-8, 2022, postponed due to COVID-19 and held virtually, April 6-9, 2022. 
 
 ## Conference Attended
--	The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023 (Virtual).
--	International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July 7-8, 2023 (Virtual).
--	Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.
--	International Conference on Matrix Theory with Applications (ICMTA), Jeju, Korea, December 1-5, 2022 (Virtual).
+-	**The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023 (Virtual).**
+-	**International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July 7-8, 2023 (Virtual).**
+-	**Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.**
+-	**International Conference on Matrix Theory with Applications (ICMTA), Jeju, Korea, December 1-5, 2022 (Virtual).**
 -	Second international workshop on Matrix Theory and Applications, hosted by the Departments of Mathematics: AKFA University-Uzbekistan, Sukkur IBA University-Pakistan, Naresuan University-Thailand and Bukhara State University-Uzbekistan, November 15-17, 2022 (Virtual).
 -	International Workshop on Matrix Analysis and Its Applications (MAA 2022), Quy Nhon, Viet Nam, June 4, 2022 (Virtual).
 -	Joint Mathematics Meetings (JMM 2022), Seattle, January 5-8, 2022, postponed due to COVID-19 and held virtually April 6-9, 2022.
