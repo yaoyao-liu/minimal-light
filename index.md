@@ -61,7 +61,7 @@ layout: homepage
 -	G.H. Peng, X.X. Wang, Y.Z. Zhang, [Multidimensional scaling analysis based on attribute reduction of bivariate mutual information](https://doi.org/10.12988/imf.2017.610133), International Mathematical Forum, 12 (3) (2017) 111-118. 
 
 ## Presentations
-- 	X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, 6th Annual GSA Poster Symposium.
+- 	X.X.Wang, Some Inequalities of Geometric Means in Grassmannians, 6th Annual GSA Poster Symposium, November 1, 2023.
 - 	X.X. Wang, Geometric means and their properties of Grassmannians, The 10th International Conference on Matrix Analysis and Applications (ICMAA), KunMing, China, August 15-18, 2023.
 - 	X.X. Wang, Geometric means and their properties of Grassmannians, International Workshop on Matrix Analysis and Its Applications, Quynhon, Vietnam, July7-8, 2023.
 - 	X.X. Wang, Arnoldi method for right eigenvalue problem of the large-scale quaternion matrices, Joint Mathematics Meetings (JMM 2023), Boston, January 4-7, 2023.
