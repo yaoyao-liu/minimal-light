@@ -81,9 +81,13 @@ layout: homepage
 ## Work Experience
 - 06/2023-08/2023: Co-Requisite Assessment Program, University of Nevada, Reno.
 
-## Professional and University Services  
+## Professional Organization Members and University Services  
+- Member, American Mathematical Society (AMS).
+- Member, International Linear Algebra Society (ILAS).
 - Nevada GAIN   Program, mentor for new graduate student, 2023	
 - Journal Reviewer: Linear and Multilinear Algebra 
+
+ 
 
 ## Skill and Interests
 
