@@ -9,9 +9,11 @@ My undergraduate study ([ACM Honors Class](https://acm.sjtu.edu.cn/home)) and ma
 
 I have experience in industrial software development. I was a software engineer at [Snap Inc.](https://snap.com/en-US) and [Microsoft](https://www.microsoft.com/en-us/) in the Greater Seattle Area. 
 
-**I will be a Postdoctoral Research Fellow at [University of British Columbia, Canada](https://www.ubc.ca/), working with [Dr. Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/) at the intersection of Software Engineering and AI.**
-
 [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Statement (2-page)]](https://jie-jw-wu.github.io/assets/research-statement-jw.pdf)
+## News
+**Nov 2023:** I will attend [MAPS 2023](https://mapsworkshop.github.io/papers) on Dec 3, 2023 to present my work on the [communication skills of LLM](https://mapsworkshop.github.io/papers). Looking forward to the event.
+
+**Nov 2023:** I will be a Postdoctoral Research Fellow at [University of British Columbia, Canada](https://www.ubc.ca/), working with [Dr. Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/) at the intersection of Software Engineering and AI.
 
 
 ## Research Interests
