@@ -192,20 +192,6 @@
   </div>
 </div>
 </li>
-  
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/bci.JPG" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ML Classification on BCI</abbr>
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-642-24955-6_84">Removing unrelated features based on linear dynamical system for motor-imagery-based brain-computer interface</a></div>
-    <div class="author"><strong>Wu, Jie</strong>, Li-Chen Shi, Bao-Liang Lu</div>
-    <div class="periodical"><em>Neural Information Processing: 18th International Conference, ICONIP 2011, Shanghai, China, November 13-17, 2011, Proceedings, Part I 18. Springer Berlin Heidelberg, 2011. </em></div>
-  </div>
-</div>
-</li>
 
 <br>
 
