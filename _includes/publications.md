@@ -12,7 +12,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"> Benchmarking the Communication Competence in Large Language Models for Code Generation </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em>(long paper, preprint and data coming soon) (Under Review)</em></div>
+    <div class="periodical"><em>(long paper, preprint and data coming soon) </em></div>
   </div>
 </div>
 </li>
