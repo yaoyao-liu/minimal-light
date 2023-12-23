@@ -89,6 +89,18 @@
     <div class="links">
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4252209" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="https://github.com/jw-wu-git/movsw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- Add BibTeX button and hidden BibTeX text -->
+      <button onclick="copyBibtex()">Copy BibTeX</button>
+        <textarea id="bibtex" style="display: none;">
+          @article{wu2023multi,
+            title={A multi-objective evolutionary approach towards automated online controlled experiments},
+            author={Wu, Jie JW and Mazzuchi, Thomas A and Sarkani, Shahram},
+            journal={Journal of Systems and Software},
+            pages={111703},
+            year={2023},
+            publisher={Elsevier}
+          }
+        </textarea>
     </div>
   </div>
 </div>
@@ -192,6 +204,24 @@
   </div>
 </div>
 </li>
+
+
+<script>
+  function copyBibtex() {
+    /* Get the text area element */
+    var bibtexTextArea = document.getElementById("bibtex");
+
+    /* Select the text in the text area */
+    bibtexTextArea.select();
+    bibtexTextArea.setSelectionRange(0, 99999); /* For mobile devices */
+
+    /* Copy the text to the clipboard */
+    document.execCommand("copy");
+
+    /* Alert the user that the BibTeX has been copied */
+    alert("BibTeX copied to clipboard!");
+  }
+</script>
 
 <br>
 
