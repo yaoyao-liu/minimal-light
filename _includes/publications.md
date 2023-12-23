@@ -208,18 +208,19 @@
 
 <script>
   function copyBibtex() {
-    /* Get the text area element */
+    /* Get the text from the text area */
     var bibtexTextArea = document.getElementById("bibtex");
+    var bibtexText = bibtexTextArea.value;
 
-    /* Select the text in the text area */
-    bibtexTextArea.select();
-    bibtexTextArea.setSelectionRange(0, 99999); /* For mobile devices */
-
-    /* Copy the text to the clipboard */
-    document.execCommand("copy");
-
-    /* Alert the user that the BibTeX has been copied */
-    alert("BibTeX copied to clipboard!");
+    /* Use the Clipboard API to copy the text to the clipboard */
+    navigator.clipboard.writeText(bibtexText)
+      .then(() => {
+        /* Alert the user that the BibTeX has been copied */
+        alert("BibTeX copied to clipboard!");
+      })
+      .catch((err) => {
+        console.error('Unable to copy BibTeX to clipboard', err);
+      });
   }
 </script>
 
