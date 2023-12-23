@@ -71,6 +71,15 @@
     <div class="periodical"><em>Ph.D. Dissertation</em></div>
     <div class="links">
       <a href="https://jie-jw-wu.github.io/assets/jw_ldm_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px;">Copy BibTeX</button>
+        <textarea id="bibtex" style="display: none;">
+         @phdthesis{wu2023towards,
+          title={Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments},
+          author={Wu, Jie JW},
+          year={2023},
+          school={The George Washington University}
+        }
+        </textarea>
     </div>
   </div>
 </div>
@@ -90,7 +99,7 @@
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4252209" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="https://github.com/jw-wu-git/movsw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- Add BibTeX button and hidden BibTeX text -->
-      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px; background-color: #ffffff;">Copy BibTeX</button>
+      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px;">Copy BibTeX</button>
         <textarea id="bibtex" style="display: none;">
           @article{wu2023multi,
             title={A multi-objective evolutionary approach towards automated online controlled experiments},
@@ -120,6 +129,18 @@
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4072566" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="https://github.com/jw-wu-git/ldm-framework" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://jie-jw-wu.github.io/assets/jw_ldm_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px;">Copy BibTeX</button>
+         <textarea id="bibtex" style="display: none;">
+           @article{wu2023comparison,
+            title={Comparison of multi-criteria decision-making methods for online controlled experiments in a launch decision-making framework},
+            author={Wu, Jie JW and Mazzuchi, Thomas A and Sarkani, Shahram},
+            journal={Information and Software Technology},
+            volume={155},
+            pages={107115},
+            year={2023},
+            publisher={Elsevier}
+          }
+         </textarea>
     </div>
   </div>
 </div>
