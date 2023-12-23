@@ -90,7 +90,7 @@
       <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4252209" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Pre-print</a>
       <a href="https://github.com/jw-wu-git/movsw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <!-- Add BibTeX button and hidden BibTeX text -->
-      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px; background-color: #ffffff; color: #007bff;">Copy BibTeX</button>
+      <button class="btn btn-sm z-depth-0" onclick="copyBibtex()" style="font-size: 12px;">Copy BibTeX</button>
         <textarea id="bibtex" style="display: none;">
           @article{wu2023multi,
             title={A multi-objective evolutionary approach towards automated online controlled experiments},
