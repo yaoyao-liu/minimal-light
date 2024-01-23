@@ -55,6 +55,18 @@
     <div class="title"><a href="https://arxiv.org/pdf/2308.13507.pdf">Large Language Models Should Ask Clarifying Questions to Increase Confidence in Generated Code </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em>The 7th Annual Symposium on Machine Programming (<a href="https://mapsworkshop.github.io/">MAPS ’23 Workshop</a>) </em></div>
+    <div class="links">
+       <a href="https://jie-jw-wu.github.io/assets/jw_clarify_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+       <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2023large')" style="font-size: 12px;">Copy BibTeX</button>
+         <textarea id="bibtex_wu2023large" style="display: none;">
+          @inproceedings{wu2023large,
+           title={Large Language Models Should Ask Clarifying Questions to Increase Confidence in Generated Code},
+           author={Wu, Jie JW},
+           booktitle={The 7th Annual Symposium on Machine Programming (MAPS 23)},
+           note={Workshop, December 3, 2023, San Francisco, CA, USA}
+         }
+         </textarea>
+     </div>
   </div>
 </div>
 </li>
