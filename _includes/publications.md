@@ -56,7 +56,7 @@
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em>The 7th Annual Symposium on Machine Programming (<a href="https://mapsworkshop.github.io/">MAPS ’23 Workshop</a>) </em></div>
     <div class="links">
-       <a href="https://jie-jw-wu.github.io/assets/jw_clarify_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+       <a href="https://jie-jw-wu.github.io/assets/slides_MAPS_2023.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
        <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2023large')" style="font-size: 12px;">Copy BibTeX</button>
          <textarea id="bibtex_wu2023large" style="display: none;">
           @inproceedings{wu2023large,
