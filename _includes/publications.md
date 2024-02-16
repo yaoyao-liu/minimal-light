@@ -11,7 +11,6 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"> Benchmarking the Communication Competence in Large Language Models for Code Generation </div>
-    <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em>(long paper, preprint and data coming soon) </em></div>
   </div>
 </div>
@@ -26,7 +25,21 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2312.10624.pdf">Can Offline A/B Testing Be Automated for Data-Driven Requirement Engineering? </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em> (short paper) (Under Review)</em></div>
+    <div class="periodical"><em> Arxiv. (short paper) </em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ccd.JPG" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Code Clone Detection</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2401.13802.pdf">Investigating the Efficacy of Large Language Models for Code Clone Detection</a> </div>
+    <div class="author">Mohamad Khajezade, <strong>Wu, Jie JW</strong>, Fatemeh Hendijani Fard, Gema Rodríguez-Pérez,Mohamed Sami Shehata</div>
+    <div class="periodical"><em> International Conference on Program Comprehension (ICPC 2024), Early Research Achievements (ERA) (short paper) </em></div>
   </div>
 </div>
 </li>
@@ -35,12 +48,12 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/v.JPG" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Vee Process Model</abbr>
+    <abbr class="badge">V-Model</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2308.05381.pdf">Application of Systems Engineering Process in ML-Enabled Systems</a> </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2308.05381.pdf">An Exploratory Study of V-Model in Building ML-Enabled Software: A Systems Engineering Perspective</a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em>Arxiv. (long paper) (Under Review)</em></div>
+    <div class="periodical"><em> 3rd International Conference on AI Engineering – Software Engineering for AI (CAIN 2024) (long paper) </em></div>
   </div>
 </div>
 </li>
