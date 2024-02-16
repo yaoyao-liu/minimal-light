@@ -13,8 +13,11 @@ I worked as a software engineer for 8+ years at [Snap Inc.](https://snap.com/en-
 ## News
 
 **⚡ Feb 2024:** [My paper](https://arxiv.org/pdf/2308.05381.pdf) on investigating the use of V-Model in ML-enabled system is accepted at [CAIN 2024](https://conf.researchr.org/home/cain-2024) (3rd International Conference on AI Engineering – Software Engineering for AI)!
+
 **⚡ Jan 2024:** [Our paper](https://arxiv.org/pdf/2401.13802.pdf) on investigating LLM in Code Clone Detection is accepted at [ICPC 2024](https://conf.researchr.org/home/icpc-2024) (International Conference on Program Comprehension 2024). Congrats to Mohamad!
+
 **⚡ Nov 2023:** I will attend [MAPS 2023](https://mapsworkshop.github.io/papers) on Dec 3, 2023 in San Francisco, US to present my work on the [communication skills of LLM](https://mapsworkshop.github.io/papers). Looking forward to the event!
+
 **⚡ Nov 2023:** I will be a Postdoctoral Research Fellow at [University of British Columbia, Canada](https://www.ubc.ca/), working with [Dr. Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/) at the intersection of Software Engineering and AI!
 
 
