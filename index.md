@@ -24,14 +24,5 @@ I worked as a software engineer for 8+ years at [Snap Inc.](https://snap.com/en-
 ## Research Interests
 I develop new approaches to simplify the complicated, time-consuming, and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are a) ***AI4SE*** and b) ***SE4AI*** within the context of Large Language Models (LLM), Machine Learning (ML), and Data as a component to assist, systematize, and automate the decision-making of software developers and other roles within the enterprises. My work has an emphasis on leveraging system thinking from Systems Engineering and bridging the gap between the industry and academia. 
 
-My previous experiences include but are not limited to the following areas:
-- LLM-based approach for software development tasks
-- Software development process for ML-enabled systems
-- Continuous data-driven software engineering (online and offline A/B testing)
-- Automated tooling to assist developers or end users
-- Search-based software engineering (evolutionary algorithms) 
-- Data-driven decision-making (multi-criteria decision-making)
-- Recommender system (evaluation, candidate generation, ranking)
-
 {% include_relative _includes/publications.md %}
 
