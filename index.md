@@ -12,6 +12,8 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Statement (2-page)]](https://jie-jw-wu.github.io/assets/research-statement-jw.pdf)
 ## News
 
+**⚡ Feb 2024:** I'm a Program Committee Member of [FSE 2024 Posters Track](https://2024.esec-fse.org/committee/fse-2024-posters-program-committee). Looking forward to the submissions and reviews!
+
 **⚡ Feb 2024:** [My paper](https://arxiv.org/pdf/2308.05381.pdf) on investigating the use of V-Model in ML-enabled system is accepted at [CAIN 2024](https://conf.researchr.org/home/cain-2024) (3rd International Conference on AI Engineering – Software Engineering for AI)! Looking forward to the event in Lisbon, Portugal.
 
 **⚡ Jan 2024:** [Our paper](https://arxiv.org/pdf/2401.13802.pdf) on investigating LLM in Code Clone Detection is accepted at [ICPC 2024](https://conf.researchr.org/home/icpc-2024) (International Conference on Program Comprehension 2024). Congrats to Mohamad!
