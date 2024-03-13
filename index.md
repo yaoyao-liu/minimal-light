@@ -11,6 +11,8 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 
 [[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Statement (2-page)]](https://jie-jw-wu.github.io/assets/research-statement-jw.pdf)
 ## News
+**⚡ Mar 2024:** I'm honored to be invited as a Program Committee Member of [ASE 2024 Artifact Evaluation Track](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track). Looking forward to the submissions and reviews!
+
 **⚡ Feb 2024:** I'm honored to share that [my paper](https://arxiv.org/pdf/2308.05381.pdf) on the use of V-Model in ML-enabled system has been selected as a _**candidate for the CAIN 2024 Best Paper Award**_!
 
 **⚡ Feb 2024:** I'm honored to be invited as a Program Committee Member of [FSE 2024 Posters Track](https://2024.esec-fse.org/committee/fse-2024-posters-program-committee). Looking forward to the submissions and reviews!
