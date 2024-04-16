@@ -23,9 +23,10 @@
     <abbr class="badge">Autmoated Offline AB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2312.10624.pdf">Can Offline A/B Testing Be Automated for Data-Driven Requirement Engineering? </a> </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2312.10624.pdf">AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven
+  Requirement Engineering </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em> Arxiv. (short paper) </em></div>
+    <div class="periodical"><em> FSE Visions and Reflections 2024 (Accepted, To Appear) </em></div>
   </div>
 </div>
 </li>
