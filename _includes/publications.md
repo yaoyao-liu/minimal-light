@@ -54,7 +54,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2308.05381.pdf">An Exploratory Study of V-Model in Building ML-Enabled Software: A Systems Engineering Perspective</a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em> 3rd International Conference on AI Engineering – Software Engineering for AI (CAIN 2024) (long paper) <span style="color:red;">Candidate for Best Paper Award</span> </em></div>
+    <div class="periodical"><em> 3rd International Conference on AI Engineering – Software Engineering for AI (CAIN 2024) (long paper) <span style="color:red;">Distinguished Paper Award Candidate</span> </em></div>
    <div class="links">
        <a href="https://jie-jw-wu.github.io/assets/V_Model_JW_CAIN_2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
        <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2024exploratory')" style="font-size: 12px;">Copy BibTeX</button>
@@ -67,7 +67,6 @@
          }
          </textarea>
      </div>
-  </div>
   </div>
 </div>
 </li>
