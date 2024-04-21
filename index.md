@@ -9,7 +9,6 @@ I'm a postdoc at [University of British Columbia](https://www.ubc.ca/). My under
 
 I worked as a software engineer in the industry for nearly a decade at [Snap Inc.](https://snap.com/en-US) (Seattle office), [Microsoft](https://www.microsoft.com/en-us/) (Redmond HQ), and startup ([ArcSite](https://www.arcsite.com/), Shanghai office). I've worked in various areas such as ML-enabled recommender systems, data analysis, scalable backend service and infrastructure, mobile applications, etc.
 
-[[Resume]](https://jie-jw-wu.github.io/assets/ResumeJW.pdf)  [[Research Statement (2-page)]](https://jie-jw-wu.github.io/assets/research-statement-jw.pdf)
 ## News
 **⚡ Mar 2024:** I'm honored to be invited as a Program Committee Member of [ASE 2024 Artifact Evaluation Track](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track). Looking forward to the submissions and reviews!
 
