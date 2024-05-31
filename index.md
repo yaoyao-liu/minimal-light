@@ -31,7 +31,7 @@ I develop new approaches to simplify the complicated, time-consuming, and someti
 {% include_relative _includes/publications.md %}
 
 ## Misc
-Outside research and SE, I'm interested in the following topics, and I'm happy to talk about it if you find any of them interesting:
+Outside research and software engineering, I'm interested in the following topics, and I'm happy to talk about it if you find any of them interesting:
 - [红楼梦 (Dream of the Red Chamber)](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)
 - [Albert Einstein and history of Relativity, Quantum Physics](https://en.wikipedia.org/wiki/Albert_Einstein)
 - Basketball: I (used to) play every week
