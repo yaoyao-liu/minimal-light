@@ -10,8 +10,9 @@
     <abbr class="badge">LLM Communication Benchmark</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> Benchmarking the Communication Competence in Large Language Models for Code Generation </div>
-    <div class="periodical"><em>(long paper, preprint and data coming soon) </em></div>
+    <div class="title"> Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent </div>
+    <div class="author"><strong>Wu, Jie JW</strong>, Fatemeh Hendijani Fard</div>
+    <div class="periodical"><em>(long paper, under review) </em></div>
   </div>
 </div>
 </li>
@@ -23,10 +24,10 @@
     <abbr class="badge">Autmoated Offline AB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2312.10624.pdf">AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven
+    <div class="title"><a href="https://jie-jw-wu.github.io/assets/AutoOffAB-fse-camare-ready.pdf">AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven
   Requirement Engineering </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
-    <div class="periodical"><em> FSE Visions and Reflections 2024 (Accepted, To Appear) </em></div>
+    <div class="periodical"><em> FSE Visions and Reflections 2024 (Accepted) </em></div>
   </div>
 </div>
 </li>
@@ -88,7 +89,7 @@
           @inproceedings{wu2023large,
            title={Large Language Models Should Ask Clarifying Questions to Increase Confidence in Generated Code},
            author={Wu, Jie JW},
-           booktitle={The 7th Annual Symposium on Machine Programming (MAPS 23)},
+           booktitle={The 7th Annual Symposium on Machine Programming (MAPS ’23 Workshop)},
            note={Workshop, December 3, 2023, San Francisco, CA, USA}
          }
          </textarea>
