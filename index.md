@@ -28,12 +28,11 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 ## Research Interests
 I develop new approaches to simplify the complicated, time-consuming, and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are a) ***AI4SE*** and b) ***SE4AI*** within the context of Large Language Models (LLM), Machine Learning (ML), and Data as a component to assist, systematize, and automate the decision-making of software developers and other roles within the enterprises. My work emphasizes using system thinking and bridging the gap between the industry and academia. 
 
+{% include_relative _includes/publications.md %}
+
 ## Misc
 Outside research and SE, I'm interested in the following topics, and I'm happy to talk about it if you find any of them interesting:
-- [红楼梦 (Dream of the Red Chamber)](https://en.wikipedia.org/wiki/Albert_Einstein)
+- [红楼梦 (Dream of the Red Chamber)](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)
 - [Albert Einstein and history of Relativity, Quantum Physics](https://en.wikipedia.org/wiki/Albert_Einstein)
 - Basketball: I (used to) play every week
 - Reading (with a focus on History, Non-fiction, and Philosophy) 
-
-
-{% include_relative _includes/publications.md %}
