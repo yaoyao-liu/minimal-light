@@ -10,7 +10,7 @@
     <abbr class="badge">LLM Communication Benchmark</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent </div>
+    <div class="title"><a href="https://arxiv.org/pdf/2406.00215"> Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent </div>
     <div class="author"><strong>Wu, Jie JW</strong>, Fatemeh Hendijani Fard</div>
     <div class="periodical"><em>(long paper, under review) </em></div>
   </div>
