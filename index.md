@@ -15,7 +15,7 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 
 **⚡ May 2024:** [My paper](https://jie-jw-wu.github.io/assets/AutoOffAB-fse-camare-ready.pdf) on automating offline A/B testing (AutoOffAB) is accepted at FSE 2024, "Ideas, Visions and Reflections" Track!
 
-**⚡ May 2024:** I'm excited to share that [my paper](https://arxiv.org/pdf/2308.05381.pdf) on the use of V-Model in ML-enabled system will appear in the IEEE Software Practitioner's digest column!
+**⚡ May 2024:** I'm excited to share that [my paper](https://arxiv.org/pdf/2308.05381.pdf) on the use of V-Model in ML-enabled system will appear in the [IEEE Software](https://www.computer.org/csdl/magazine/so) Practitioner's digest column!
 
 **⚡ Mar 2024:** I'm honored to be invited as a Program Committee Member of [ASE 2024 Artifact Evaluation Track](https://conf.researchr.org/track/ase-2024/ase-2024-artifact-evaluation-track). Looking forward to the submissions and reviews!
 
