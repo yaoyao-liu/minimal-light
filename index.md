@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-My original first name is _**杰 (Jie)**_. Please see this [link](https://en.wiktionary.org/wiki/ji%C3%A9) with audio to learn how to pronounce Jie ("JEE-yeh" is pretty close). I'm happy to accept any approximation, so please feel free to use your favorite variants! I also go by _**JW**_.
+My original first name is _**杰 (Jie)**_. Please see this [link](https://en.wiktionary.org/wiki/ji%C3%A9) with audio to learn how to pronounce Jie ("JEE-yeh" is pretty close). I'm happy to accept any approximation, so please feel free to use your favorite variants! I also go by _**JW**_. 
 
 I'm a postdoc at [University of British Columbia](https://www.ubc.ca/), working with [Dr. Fatemeh Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/) at the intersection of GenAI and Software Engineering. My undergraduate and master studies were done both in Computer Science at [Shanghai Jiao Tong University](https://www.cs.sjtu.edu.cn/en/)  (at [ACM Class](https://acm.sjtu.edu.cn/home), an elite CS program at SJTU). I received my PhD in Systems Engineering at [George Washington University](https://www.seas.gwu.edu/). My PhD dissertation is titled ["Towards Formalizing Data-Driven Decision-Making from Big Data: A Systematic Multi-Criteria Decision-Making Approach in Online Controlled Experiments"](https://www.proquest.com/docview/2784774986?pq-origsite=gscholar&fromopenview=true). I was a research intern at [Google Research](https://research.google/) and [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I publish under "Jie JW Wu". 
 
