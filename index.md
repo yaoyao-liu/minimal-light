@@ -9,6 +9,12 @@ I'm a postdoc at [University of British Columbia](https://www.ubc.ca/), working 
 
 I worked as a software engineer in the industry for nearly a decade at [Snap Inc.](https://snap.com/en-US) (Seattle office), [Microsoft](https://www.microsoft.com/en-us/) (Redmond HQ), and startup ([ArcSite](https://www.arcsite.com/), Shanghai office). I've worked in various areas such as ML-enabled recommender systems, data analysis, scalable backend service and infrastructure, mobile applications, etc.
 
+## Research Interests
+My research interest is **context-driven systems thinking** to enable **trustworthy and safe AIware**. Guided by the **ideological** systems thinking mindset and the **realistic** industrial context, my work aims to improve trustworthiness and safety of AIware, i.e. AI-powered software, in the Foundational Model (FM) era. I love combining concepts and techniques from different fields to achieve my research goals.
+
+Keywords: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4AI), Foundational Models
+(FM), Data Science, Systems Engineering
+
 ## News
 
 **⚡ Jun 2024:** I'm glad to attend SEMLA 2024 to present my poster for our work in benchmarking the communication skills of Code LLM and LLM Agent! I'm grateful for the travel support and travel grant award from SEMLA. 
@@ -31,9 +37,6 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 
 **⚡ Nov 2023:** I will be a Postdoctoral Research Fellow at [University of British Columbia, Canada](https://www.ubc.ca/), working with [Dr. Fard](https://cmps.ok.ubc.ca/about/contact/fatemeh-hendijani-fard/) at the intersection of Software Engineering and AI!
 
-
-## Research Interests
-I develop new approaches to simplify the complicated, time-consuming, and sometimes tedious process of software development and decision-making in a more systematic, formalized way. Led by this goal, my research interests are a) ***AI4SE*** and b) ***SE4AI*** within the context of Large Language Models (LLM), Machine Learning (ML), and Data as a component to assist, systematize, and automate the decision-making of software developers and other roles within the enterprises. My work emphasizes using system thinking and bridging the gap between the industry and academia. 
 
 {% include_relative _includes/publications.md %}
 
