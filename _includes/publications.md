@@ -12,6 +12,19 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2406.00215"> Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent </a></div>
     <div class="author"><strong>Wu, Jie JW</strong>, Fatemeh Hendijani Fard</div>
+    <div class="links">
+       <a href="https://github.com/jie-jw-wu/human-eval-comm" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+       <a href="https://jie-jw-wu.github.io/assets/PosterHumanEvalComm.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+       <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2024benchmarking')" style="font-size: 12px;">Copy BibTeX</button>
+          <textarea id="bibtex_wu2024benchmarking" style="display: none;">
+            @article{wu2024benchmarking,
+              title={Benchmarking the Communication Competence of Code Generation for LLMs and LLM Agent},
+              author={Wu, Jie JW and Fard, Fatemeh H},
+              journal={arXiv preprint arXiv:2406.00215},
+              year={2024}
+            }
+          </textarea>
+     </div>
     <div class="periodical"><em>(long paper, under review) </em></div>
   </div>
 </div>
