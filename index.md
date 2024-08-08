@@ -17,6 +17,8 @@ Keywords: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4A
 
 ## News
 
+**⚡ Aug 2024:** I'm honored to be a Program Committee Member of [CAIN 2025](https://conf.researchr.org/track/cain-2025/cain-2025-call-for-papers). Looking forward to the submissions and reviews!
+
 **⚡ Jun 2024:** I'm glad to attend SEMLA 2024 to present my poster for our work in benchmarking the communication skills of Code LLM and LLM Agent! I'm grateful for the travel support and travel grant award from SEMLA. 
 
 **⚡ May 2024:** [My paper](https://jie-jw-wu.github.io/assets/AutoOffAB-fse-camare-ready.pdf) on automating offline A/B testing (AutoOffAB) is accepted at FSE 2024, "Ideas, Visions and Reflections" Track!
