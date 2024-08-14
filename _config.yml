@@ -15,7 +15,7 @@ canonical: https://jdodinh.io
 # google_scholar: https://scholar.google.com/
 cv_link: assets/files/CV-CAN.pdf
 github_link: https://github.com/jdodinh
-linkedin: https://www.linkedin.com/jdodinh
+linkedin: https://www.linkedin.com/in/jdodinh
 twitter: https://twitter.com/jedodinh
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -26,7 +26,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
