@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a recent (2024) graduate from [EPFL](https://www.epfl.ch/en/), where I obtained a Master's degree in Computer Science with a specialization in Computer Science Theory. I completed my [thesis](./assets/files/m-thesis.pdf), titled "Simulation Security in the Random Model," at the [COMPSEC](https://compsec.epfl.ch/) lab under the supervision of [Alessandro Chiesa](https://ic-people.epfl.ch/~achiesa/) and [Giacomo Fenzi](https://gfenzi.io/). Before joining EPFL, I obtained a bachelor's degree in mathematics and Computer Science at [McGill University](https://www.mcgill.ca/). 
+I am a recent (2024) graduate from [EPFL](https://www.epfl.ch/en/), where I obtained a Master's degree in Computer Science with a specialization in Computer Science Theory. I completed my [thesis](./assets/files/m-thesis.pdf), titled "Simulation Security in the Random Model," at the [COMPSEC](https://compsec.epfl.ch/) lab under the supervision of [Alessandro Chiesa](https://ic-people.epfl.ch/~achiesa/) and [Giacomo Fenzi](https://gfenzi.io/). Before joining EPFL, I obtained a bachelor's degree in Mathematics and Computer Science at [McGill University](https://www.mcgill.ca/). 
 
 ## Research Interests
 
