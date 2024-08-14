@@ -37,7 +37,7 @@
     <abbr class="badge">Autmoated Offline AB</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://jie-jw-wu.github.io/assets/AutoOffAB-fse-camare-ready.pdf">AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven
+    <div class="title"><a href="https://arxiv.org/pdf/2312.10624">AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven
   Requirement Engineering </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em> 32nd ACM International Conference on the Foundations of Software Engineering (FSE ’24, Ideas, Visions and Reflections Track) </em></div>
