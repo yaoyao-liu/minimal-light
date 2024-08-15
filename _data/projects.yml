@@ -1,0 +1,16 @@
+main:
+  - title: Simulation Security in the Random Oracle Model
+    authors: <strong>Jérémi Do Dinh</strong>
+    pdf: ./assets/files/m-thesis.pdf
+    lab: COMPSEC
+    lab_link: https://compsec.epfl.ch/
+    image: ./assets/img/narg-diagram.png
+    type: Master's Thesis
+
+  - title: Integer Programming with Complete Constraint Matrices
+    authors: <strong>Jérémi Do Dinh</strong>
+    pdf: ./assets/files/s-project-disopt.pdf
+    lab: DISOPT
+    lab_link: https://www.epfl.ch/labs/disopt/
+    image: ./assets/img/integer-programming.png
+    type: Semester Project
