@@ -13,6 +13,9 @@ When I'm not immersed in technical pursuits, you'll find me playing my guitar, k
 - **Cryptography:** Hash-based zkSNARKs, simulation-security of arguments, and post-quantum cryptography.
 - **Probabilistic Proofs:** Interactive proof systems and low degree testing.
 
+## Current Endeavors
+- **Learning Rust**: Currently on Chapter 8 of the [Rust book](https://doc.rust-lang.org/book/). Check out my Rust implementation of the [sum-check](https://dl.acm.org/doi/10.1145/146585.146605) protocol [here](https://github.com/jdodinh/sum-check)!
+
 ## News
 
 - **[Aug. 2024]** Finished my Master's degree at EPFL.
