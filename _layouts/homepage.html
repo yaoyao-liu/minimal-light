@@ -51,15 +51,16 @@
         {% endif %}
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
-        {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
         {% endif %}
 
         <br>
-        <br>
         <div class="social-icons">
+        {% if site.email %}
+        <a style="margin: 0 5px 0 0" href="mailto:{{ site.email }}">
+          <i class="fa fa-envelope"></i>
+        </a>
+        {% endif %}
+
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>

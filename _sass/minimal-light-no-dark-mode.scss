@@ -69,6 +69,9 @@
   border-radius:3.6rem;
   margin:-1.8rem}
 
+.email span{
+  background-color:#4099ff}
+
 .twitter span{
   background-color:#4099ff}
 
@@ -101,6 +104,9 @@ email {
   width:3.6rem;
   z-index:10}
 
+.icon-button .icon-email{
+  color:#4099ff}
+
 .icon-button .icon-twitter{
   color:#4099ff}
 
@@ -113,7 +119,7 @@ email {
 .icon-button .icon-linkedin{
   color:#0077B5}
 
-.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
+.icon-button:hover .icon-email,.icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
   color:#595959;

@@ -22,6 +22,8 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .icon-button:hover span { width: 3.6rem; height: 3.6rem; border-radius: 3.6rem; margin: -1.8rem; }
 
+.email span { background-color: #4099ff; }
+
 .twitter span { background-color: #4099ff; }
 
 .facebook span { background-color: #4286f4; }
@@ -34,9 +36,6 @@ email { font-size: 14px; font-family: "Ubuntu Mono"; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
-.icon-button .icon-twitter { color: #4099ff; }
-
-.icon-button .icon-facebook { color: #4286f4; }
 
 .icon-button .icon-github { color: #000; }
 

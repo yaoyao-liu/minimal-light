@@ -2,11 +2,12 @@ main:
   - title: Tight inapproximability of Nash equilibria in public goods games
     authors: <strong>Jérémi Do Dinh</strong>, Alexandros Hollender
     pdf: https://arxiv.org/pdf/2402.14198.pdf
-    page: https://www.sciencedirect.com/science/article/pii/S0020019024000164?via%3Dihub
+    publication: https://www.sciencedirect.com/science/article/pii/S0020019024000164?via%3Dihub
     journal: Information Processing Letters
     image: ./assets/img/public-goods.jpg
-    conference_short: IPL
-
+    conference_short: Information Processing Letters
+    lab: THL5
+    lab_link: https://ic-people.epfl.ch/~goos/
 
   # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
   #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)

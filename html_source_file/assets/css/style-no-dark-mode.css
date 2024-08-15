@@ -18,6 +18,8 @@ body { background-color: #fff; padding: 0px; font: 16.0px/1.5 Crimson Pro, serif
 
 .icon-button:hover span { width: 3.6rem; height: 3.6rem; border-radius: 3.6rem; margin: -1.8rem; }
 
+.email span { background-color: #4099ff; }
+
 .twitter span { background-color: #4099ff; }
 
 .facebook span { background-color: #4286f4; }
