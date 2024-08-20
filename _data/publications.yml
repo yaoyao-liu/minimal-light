@@ -6,9 +6,6 @@ main:
     conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
     pdf: https://#
     code: https://github.com/OSUSecLab/BaseMirror
-    # bibtex: https://#
-    # image: ./assets/img/basemirror.png
-    # notes: Early Accept
 
   - title: "Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation"
     authors: Jiameng Shi, <strong>Wenqiang Li</strong>, Wenwen Wang, Le Guan
@@ -16,21 +13,12 @@ main:
     conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2024.
     pdf: https://www.ndss-symposium.org/wp-content/uploads/2024-116-paper.pdf
     code: https://github.com/MCUSec/IPEA
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
 
   - title: "BTD: Unleashing the Power of Decompilation for x86 Deep Neural Network Executables"
     authors: Zhibo Liu, Yuanyuan Yuan, Xiaofei Xie, Tianxiang Li, <strong>Wenqiang Li</strong>, Shuai Wang
     conference_short: Black Hat USA
     conference: <strong>(Black Hat USA )</strong>, 2023.
     pdf: https://i.blackhat.com/BH-US-23/Presentations/US-23-ZhiboLiu-BTD-Unleashing-the-Power.pdf
-    # code: https://github.com/MCUSec/IPEA
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
 
   - title: "HARM: Hardware-assisted Continuous Rerandomization for Microcontrollers"
     authors: Jiameng Shi, Le Guan, <strong>Wenqiang Li</strong>, Dayou Zhang, Ning Zhang, Ping Chen
@@ -38,7 +26,21 @@ main:
     conference: IEEE European Symposium on Security and Privacy <strong>(EuroS&P)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797382
     code: https://github.com/MCUSec/HARM
+
+  - title: "μAFL: Non-intrusive Feedback-driven Fuzzing for Microcontroller Firmware"
+    authors: <strong>Wenqiang Li</strong>, Jiameng Shi, Fengjun Li, Jingqiang Lin, Wei Wang, Le Guan
+    conference_short: ICSE
+    conference: International Conference on Software Engineering <strong>(ICSE)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2202.03013
+    code: https://github.com/MCUSec/microAFL
+
+  - title: "From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware"
+    authors: <strong>Wenqiang Li</strong>, Le Guan, Jingqiang Lin, Jiameng Shi, Fengjun Li
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2021.
+    pdf: https://arxiv.org/pdf/2107.12867
+    code: https://github.com/MCUSec/para-rehosting
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    # image: ./assets/img/teaser_example.pngs
