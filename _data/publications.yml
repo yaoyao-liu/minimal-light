@@ -1,6 +1,6 @@
 main:
 
-  - title: BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android’s Radio Interface Layer
+  - title: "BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android’s Radio Interface Layer"
     authors: <strong>Wenqiang Li</strong>, Haohuang Wen*, Zhiqiang Lin (*Co-first author)
     conference_short: CCS
     conference: The ACM Conference on Computer and Communications Security (CCS) <strong>(CCS)</strong>, 2024.
