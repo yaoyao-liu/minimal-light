@@ -3,20 +3,20 @@ main:
   - title: "BaseMirror: Automatic Reverse Engineering of Baseband Commands from Android’s Radio Interface Layer"
     authors: <strong>Wenqiang Li</strong>, Haohuang Wen*, Zhiqiang Lin (*Co-first author)
     conference_short: CCS
-    conference: The ACM Conference on Computer and Communications Security (CCS) <strong>(CCS)</strong>, 2024.
+    conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
     pdf: https://#
     code: https://github.com/OSUSecLab/BaseMirror
-    bibtex: https://#
-    image: ./assets/img/basemirror.png
+    # bibtex: https://#
+    # image: ./assets/img/basemirror.png
     # notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation"
+    authors: Jiameng Shi, <strong>Wenqiang Li</strong>, Wenwen Wang, Le Guan
+    conference_short: NDSS
+    conference: Network and Distributed System Security Symposium <strong>(NDSS)</strong>, 2024.
+    pdf: https://www.ndss-symposium.org/wp-content/uploads/2024-116-paper.pdf
+    code: https://github.com/MCUSec/IPEA
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    # image: ./assets/img/teaser_example.png
