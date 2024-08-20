@@ -14,11 +14,6 @@ I am always open to new research collaborations and opportunities to further adv
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## Research Interests
-
 - **5G Security:** vulnerabilities in next-generation mobile networks, resilience enhancement against cyber threats
 - **IoT Security:** MCU (Microcontroller Unit) vulnerabilities, robust methods for vulnerability detection
 - **Fuzzing Technologies:** automated techniques for discovering software vulnerabilities
