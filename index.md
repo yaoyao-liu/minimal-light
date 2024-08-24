@@ -20,7 +20,7 @@ I am always open to new research collaborations and opportunities to further adv
 
 ## News
 
-- **[Jul. 2024]** Our paper about vendor RIL commands discovery is accepted to CCS 2024.
+- **[Jul. 2024]** Our paper about vendor RIL commands discovery has been accepted to CCS 2024.
 
 {% include_relative _includes/publications.md %}
 
