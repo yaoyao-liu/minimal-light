@@ -41,20 +41,20 @@
   Requirement Engineering </a> </div>
     <div class="author"><strong>Wu, Jie JW</strong></div>
     <div class="periodical"><em> 32nd ACM International Conference on the Foundations of Software Engineering (FSE ’24, Ideas, Visions and Reflections Track) </em></div>
+    <div class="links">
+        <a href="https://arxiv.org/pdf/2312.10624" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
+        <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2024autooffab')" style="font-size: 12px;">Copy BibTeX</button>
+          <textarea id="bibtex_wu2024autooffab" style="display: none;">
+           @inproceedings{wu2024autooffab,
+             title={AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven Requirement Engineering},
+             author={Wu, Jie JW},
+             booktitle={Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
+             pages={472--476},
+             year={2024}
+           }
+          </textarea>
+      </div>
   </div>
- <div class="links">
-       <a href="https://arxiv.org/pdf/2312.10624" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
-       <button class="btn btn-sm z-depth-0" onclick="copyBibtex('wu2024autooffab')" style="font-size: 12px;">Copy BibTeX</button>
-         <textarea id="bibtex_wu2024autooffab" style="display: none;">
-          @inproceedings{wu2024autooffab,
-            title={AutoOffAB: Toward Automated Offline A/B Testing for Data-Driven Requirement Engineering},
-            author={Wu, Jie JW},
-            booktitle={Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering},
-            pages={472--476},
-            year={2024}
-          }
-         </textarea>
-     </div>
 </div>
 </li>
 
@@ -68,8 +68,7 @@
     <div class="title"><a href="https://dl.acm.org/doi/abs/10.1145/3643916.3645030">Investigating the Efficacy of Large Language Models for Code Clone Detection</a> </div>
     <div class="author">Khajezade, Mohamad, <strong>Jie JW Wu</strong>, Fatemeh Hendijani Fard, Gema Rodríguez-Pérez,Mohamed Sami Shehata</div>
     <div class="periodical"><em> International Conference on Program Comprehension (ICPC 2024), Early Research Achievements (ERA) (short paper) </em></div>
-  </div>
- <div class="links">
+    <div class="links">
        <a href="https://arxiv.org/pdf/2401.13802.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Arxiv</a>
        <button class="btn btn-sm z-depth-0" onclick="copyBibtex('khajezade2024investigating')" style="font-size: 12px;">Copy BibTeX</button>
          <textarea id="bibtex_khajezade2024investigating" style="display: none;">
@@ -82,6 +81,7 @@
          }
          </textarea>
      </div>
+  </div>
 </div>
 </li>
 
