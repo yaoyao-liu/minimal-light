@@ -4,7 +4,7 @@ main:
     authors: <strong>Wenqiang Li</strong>, Haohuang Wen*, Zhiqiang Lin (*Co-first author)
     conference_short: CCS
     conference: The ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2024.
-    pdf: https://#
+    pdf: https://arxiv.org/pdf/2409.00475
     code: https://github.com/OSUSecLab/BaseMirror
 
   - title: "Facilitating Non-Intrusive In-Vivo Firmware Testing with Stateless Instrumentation"
