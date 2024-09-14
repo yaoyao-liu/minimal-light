@@ -17,6 +17,10 @@ Keywords: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4A
 
 ## News
 
+**⚡ Sep 2024:** I'm an instructor teaching COSC 320 "Analysis of Algorithm" for undergrads at UBC Okanagan. It's been fun and I enjoyed talking to students!
+
+**⚡ Sep 2024:** I'm honored to be a Program Committee Member of [SANER 2025 Tool and Demo Track](https://conf.researchr.org/track/saner-2025/saner-2025-tool-demo-track). Looking forward to the submissions and reviews!
+
 **⚡ Aug 2024:** I'm honored to be a Program Committee Member of [CAIN 2025](https://conf.researchr.org/track/cain-2025/cain-2025-call-for-papers). Looking forward to the submissions and reviews!
 
 **⚡ Jun 2024:** I'm glad to attend SEMLA 2024 to present my poster for our work in benchmarking the communication skills of Code LLM and LLM Agent! I'm grateful for the travel support and travel grant award from SEMLA. 
