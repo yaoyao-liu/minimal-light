@@ -16,8 +16,9 @@ Keywords: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4A
 (FM), Data Science, Systems Engineering
 
 ## News
+**⚡ Oct 2024:** I'm honored to be a Program Committee Member of [RAIE 2025](https://conf.researchr.org/home/icse-2025/raie-2025). Looking forward to the submissions and reviews!
 
-**⚡ Sep 2024:** I'm an instructor teaching COSC 320 "Analysis of Algorithm" for undergrads at UBC Okanagan. It's been fun and I enjoyed talking to students!
+**⚡ Sep 2024:** I'm an instructor teaching COSC 320 "Analysis of Algorithm" for undergrads at UBC Okanagan for this term. We adopted a new learner-centered approach in this course. It's been fun and I enjoyed talking to students!
 
 **⚡ Sep 2024:** I'm honored to be a Program Committee Member of [SANER 2025 Tool and Demo Track](https://conf.researchr.org/track/saner-2025/saner-2025-tool-demo-track). Looking forward to the submissions and reviews!
 
