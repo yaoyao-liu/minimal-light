@@ -14,6 +14,9 @@ My main research interest is **Systems Thinking for Trustworthy AIware** (i.e., 
 
 **Keywords**: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4AI), Large Language Models (LLMs), Data Science, Systems Science and Engineering
 
+## Teaching
+I'm an instructor teaching [COSC 320 "Analysis of Algorithm"](https://okanagan.calendar.ubc.ca/course-descriptions/courses/cosco-320-analysis-algorithms) for undergrads at UBC Okanagan for this term. We adopted a new learner-centered approach in this course. It's been fun and I enjoyed talking to students!
+
 ## News
 **⚡ Oct 2024:** I'm honored to be a Program Committee Member of [RAIE 2025](https://conf.researchr.org/home/icse-2025/raie-2025). Looking forward to the submissions and reviews!
 
