@@ -12,7 +12,7 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 ## Research
 My main research interest is **Systems Thinking for Trustworthy AIware** (i.e., AI-powered software). Guided by the ideological systems thinking mindset and the realistic industrial context, my work aims to improve the trustworthiness and safety of AIware in the era of Large Language Models (LLMs). My research lies at the intersection of Software Engineering and AI. 
 
-Keywords: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4AI), Large Language Models (LLMs), Data Science, Systems Science and Engineering
+**Keywords**: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4AI), Large Language Models (LLMs), Data Science, Systems Science and Engineering
 
 ## News
 **⚡ Oct 2024:** I'm honored to be a Program Committee Member of [RAIE 2025](https://conf.researchr.org/home/icse-2025/raie-2025). Looking forward to the submissions and reviews!
