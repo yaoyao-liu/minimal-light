@@ -8,8 +8,6 @@ I am currently an associate researcher at Zhongguancun Laboratory. Previously, I
 
 My research primarily focuses on 5G security, IoT security, and Fuzzing. In the realm of 5G security, I explore the vulnerabilities within the next-generation mobile networks, striving to enhance their resilience against cyber threats. My IoT security research is centered on MCU (Microcontroller Unit) vulnerabilities, where I aim to provide more robust methods for vulnerability detection, particularly through the integration with Fuzzing. Additionally, my expertise in Fuzzing allows me to develop automated techniques for discovering software vulnerabilities, contributing to more robust and secure systems.
 
-Currently, I closely work with [SRI International](https://www.sri.com/) on the Security-Enhanced Radio Access Network (SE-RAN) project, supported by the NSF 5G Convergence Accelerator program. Please visit our website: [5gsec.com](https://5gsec.com/) for the most recent updates!
-
 I am always open to new research collaborations and opportunities to further advance these fields, as well as in other areas of interest.
 
 ## Research Interests
