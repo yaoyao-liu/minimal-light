@@ -3,13 +3,12 @@ main:
   - title: Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts
     authors: <strong>Jiahao Yin</strong>, Yixin Cao, Kai Xiong, Yidong He, Long Cui, Yongbin Liu
     conference_short: ACL
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    conference: Association for Computational Linguistics  <strong>(ACL)</strong>, 2024.
     pdf: https://aclanthology.org/2024.acl-long.232/
     code: https://github.com/yingjiahao14/KRE?tab=readme-ov-file
     page: https://github.com/yingjiahao14/KRE?tab=readme-ov-file
     bibtex: https://aclanthology.org/2024.acl-long.232/
     notes: Main
-    image: ./assets/img/intuitive.png
     
   - title: "Benchmarking Foundation Models with Language-Model-as-an-Examiner"
     authors: Yushi Bai*, <strong>Jiahao Ying*</strong>, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou
