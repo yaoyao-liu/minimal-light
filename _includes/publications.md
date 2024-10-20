@@ -8,37 +8,27 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    {% endif %}
+    <!-- You can replace 'image-link.jpg' with the actual image link if available -->
+    <img src="image-link.jpg" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    <!-- Conference abbreviation if applicable -->
+    <abbr class="badge">NeurIPS</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
+      <!-- Link to the PDF of the paper -->
+      <div class="title"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html">Benchmarking Foundation Models with Language-Model-as-an-Examiner</a></div>
+      <!-- List of authors -->
+      <div class="author">Yushi Bai*, <strong>Jiahao Ying*</strong>, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou</div>
+      <!-- Conference full name -->
+      <div class="periodical"><em>Conference on Neural Information Processing Systems (NeurIPS)</em></div>
     <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
+      <!-- PDF link -->
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/f64e55d03e2fe61aa4114e49cb654acb-Abstract-Datasets_and_Benchmarks.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- Links for code, project page, BibTex if available -->
+      <a href="link-to-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="link-to-project-page" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="link-to-bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- Optional notes or other links -->
+      <strong> <i style="color:#e74d3c">Optional Note Here</i></strong>
     </div>
   </div>
 </div>
