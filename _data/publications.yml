@@ -14,7 +14,7 @@ main:
   - title: "LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement"
     authors: <strong>Jiahao Yin</strong>, Mingbao Lin, Yixin Cao, Wei Tang, Bo Wang, Qianru Sun, Xuanjing Huang, Shuicheng Yan
     conference_short: EMNLP
-    conference: Empirical Methods in Natural Language Processing  <strong>(EMNLP)</strong>, 2024.
+    conference: Empirical Methods in Natural Language Processing  <strong>EMNLP</strong>, 2024.
     pdf: https://arxiv.org/abs/2407.00497
     code: https://github.com/SkyworkAI/LLMs-as-Instructors
     page: https://yingjiahao14.github.io/LLMs-as-Instructors-pages/
@@ -25,7 +25,7 @@ main:
   - title: Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts
     authors: <strong>Jiahao Yin</strong>, Yixin Cao, Kai Xiong, Yidong He, Long Cui, Yongbin Liu
     conference_short: ACL
-    conference: Association for Computational Linguistics  <strong>(ACL)</strong>, 2024.
+    conference: Association for Computational Linguistics <strong>ACL</strong>, 2024.
     pdf: https://aclanthology.org/2024.acl-long.232/
     code: https://github.com/yingjiahao14/KRE?tab=readme-ov-file
     page: https://github.com/yingjiahao14/KRE?tab=readme-ov-file
@@ -36,7 +36,7 @@ main:
   - title: "A + B: A General Generator-Reader Framework for Optimizing LLMs to Unleash Synergy Potential"
     authors: Wei Tang, Yixin Cao, <strong>Jiahao Ying</strong>, Bo Wang, Yuyue Zhao, Yong Liao, Pengyuan Zhou
     conference_short: ACL
-    conference: Association for Computational Linguistics  <strong>(ACL)</strong>, 2024.
+    conference: Association for Computational Linguistics <strong>ACL</strong>, 2024.
     pdf: https://aclanthology.org/2024.findings-acl.219/
     page: https://aclanthology.org/2024.findings-acl.219/
     bibtex: https://aclanthology.org/2024.findings-acl.219/
