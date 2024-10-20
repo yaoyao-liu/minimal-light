@@ -17,10 +17,10 @@ I am third-year Ph.D. candidate at Singapore Management University. I am current
 
 ## News
 
-- **[Oct. 2024]** One paper is accepted to Neurips 2024 Dataset & Benchmark Track.
-- **[Oct. 2024]** Two paper is accepted to EMNLP 2024 findings.
-- **[Jun. 2024]** Two paper is accepted to ACL 2024 (One main conference and one findings).
-- **[Oct. 2023]** One paper is accepted to Neurips 2023 Dataset & Benchmark Track.
+- **[Oct. 2024]** One paper is accepted to NeurIPS 2024 Dataset & Benchmark Track.
+- **[Oct. 2024]** Two papers are accepted to EMNLP 2024 Findings.
+- **[Jun. 2024]** Two papers are accepted to ACL 2024 (One Main conference and one Findings).
+- **[Oct. 2023]** One paper is accepted to NeurIPS 2023 Dataset & Benchmark Track.
 
 {% include_relative _includes/publications.md %}
 
