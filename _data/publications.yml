@@ -1,5 +1,27 @@
 main:
 
+  - title: "Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models"
+    authors: <strong>Jiahao Yin</strong>, Yixin Cao, Bo Wang, Wei Tang, Yizhe Yang, Shuicheng Yan
+    conference_short: EMNLP
+    conference: Advances in Neural Information Processing Systems 37 <strong>NeurIPS</strong>, 2024
+    pdf: https://arxiv.org/abs/2402.11894
+    code: https://github.com/yingjiahao14/Automating-DatasetUpdates
+    page: https://yingjiahao14.github.io/Automating-DatasetUpdates/
+    bibtex: https://arxiv.org/abs/2402.11894
+    notes: Poster
+    image: ./assets/img/autoupate.png
+   
+  - title: "LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement"
+    authors: <strong>Jiahao Yin</strong>, Mingbao Lin, Yixin Cao, Wei Tang, Bo Wang, Qianru Sun, Xuanjing Huang, Shuicheng Yan
+    conference_short: EMNLP
+    conference: Empirical Methods in Natural Language Processing  <strong>(EMNLP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2407.00497
+    code: https://github.com/SkyworkAI/LLMs-as-Instructors
+    page: https://yingjiahao14.github.io/LLMs-as-Instructors-pages/
+    bibtex: https://arxiv.org/abs/2407.00497
+    notes: Findings
+    image: ./assets/img/LEC.png
+
   - title: Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts
     authors: <strong>Jiahao Yin</strong>, Yixin Cao, Kai Xiong, Yidong He, Long Cui, Yongbin Liu
     conference_short: ACL
@@ -9,7 +31,18 @@ main:
     page: https://github.com/yingjiahao14/KRE?tab=readme-ov-file
     bibtex: https://aclanthology.org/2024.acl-long.232/
     notes: Main
-    
+    image: ./assets/img/intuitive.png
+
+  - title: "A + B: A General Generator-Reader Framework for Optimizing LLMs to Unleash Synergy Potential"
+    authors: Wei Tang, Yixin Cao, <strong>Jiahao Ying</strong>, Bo Wang, Yuyue Zhao, Yong Liao, Pengyuan Zhou
+    conference_short: ACL
+    conference: Association for Computational Linguistics  <strong>(ACL)</strong>, 2024.
+    pdf: https://aclanthology.org/2024.findings-acl.219/
+    page: https://aclanthology.org/2024.findings-acl.219/
+    bibtex: https://aclanthology.org/2024.findings-acl.219/
+    notes: Findings
+    image: ./assets/img/a_b.png
+  
   - title: "Benchmarking Foundation Models with Language-Model-as-an-Examiner"
     authors: Yushi Bai*, <strong>Jiahao Ying*</strong>, Yixin Cao, Xin Lv, Yuze He, Xiaozhi Wang, Jifan Yu, Kaisheng Zeng, Yijia Xiao, Haozhe Lyu, Jiayin Zhang, Juanzi Li, Lei Hou
     conference_short: NeurIPS
