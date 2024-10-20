@@ -9,7 +9,7 @@ main:
     page: https://yingjiahao14.github.io/Automating-DatasetUpdates/
     bibtex: https://arxiv.org/abs/2402.11894
     notes: Poster
-    image: ./assets/img/autoupate.png
+    image: ./assets/img/autoupdate.png
    
   - title: "LLMs-as-Instructors: Learning from Errors Toward Automating Model Improvement"
     authors: <strong>Jiahao Yin</strong>, Mingbao Lin, Yixin Cao, Wei Tang, Bo Wang, Qianru Sun, Xuanjing Huang, Shuicheng Yan
