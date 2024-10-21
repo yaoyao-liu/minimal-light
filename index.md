@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraudate senior in Computer Science and Engineering at the University of Puerto Rico at Mayagüez. Currently, I work at the Edge Computing Group under advisement of Dr. Wilfredo Lugo Beauchamp working on developing memory-efficient models for on-device processing of anemia detection in *conjunctiva pallor* (inner eyelid) [NSF Award OIA-1849243].
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** biomedical imaging, electron microscopy analysis
+- **Machine Learning:** statistical learning, transfer learning
+- **Biology:** molecular biology, genetics and genomics, precision medicine
+- **Biomedical Engineering:** accesible healthtech, on-device monitoring, disease prevention
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2024]** Submitted summer research paper at HotMobile 2024!
+- **[Summer 2024]** Completed the Apple-NACME Inc. AIML Intensive Bootcamp hosted at USC.
+- **[Aug. 2024]** Our paper about LSTM-sepsis detection was published in ISICN 2024!
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/services.md %} -->
