@@ -1,7 +1,7 @@
 main:
 
   - title: "Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models"
-    authors: <strong>Jiahao Yin</strong>, Yixin Cao, Bo Wang, Wei Tang, Yizhe Yang, Shuicheng Yan
+    authors: <strong>Jiahao Yin</strong>, Yixin Cao, Yushi Bai, Qianru Sun, Bo Wang, Wei Tang, Zhaojun Ding, Yizhe Yang, Xuanjing Huang, Shuicheng Yan
     conference_short: EMNLP
     conference: Advances in Neural Information Processing Systems 37 <strong>NeurIPS</strong>, 2024
     pdf: https://arxiv.org/abs/2402.11894
