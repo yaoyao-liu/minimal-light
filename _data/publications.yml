@@ -5,7 +5,7 @@ main:
 
     conference_short: ISICN
     conference: International Symposium on Intelligent Computing and Networking <strong>(ISICN)</strong>, 2024.
-    pdf: 
+    pdf: https://www.researchgate.net/publication/382962979_LSTM_Model_for_Sepsis_Detection_and_Classification_Using_PPG_Signals
     code: 
     bibtex: 
     image: ./assets/img/teaser_example_2.png
@@ -15,7 +15,7 @@ main:
     authors: Josian Luciano-Velázquez, Yan Xin, Yi-feng Su, Carla I. Quiles-Vélez, <strong>Sebastián A. Cruz-Romero</strong>, Gabriel E. Torres-Mejías, Julio Rivera-De Jesús, and Sonia J. Bailón-Ruiz*
     conference_short: MRS
     conference: MRS Advances <strong>(MRS)</strong>, 2020.
-    pdf: 
+    pdf: https://www.researchgate.net/publication/349739122_Synthesis_characterization_and_photocatalytic_activity_of_ZnS_and_Mn-doped_ZnS_nanostructures
     code: 
     page: 
     bibtex: 
