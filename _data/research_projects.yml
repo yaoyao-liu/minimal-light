@@ -1,0 +1,30 @@
+main:
+
+  - title: Addressing Memory Consumption in Edge Devices through Data Quantization
+    authors: <strong>Sebastián A. Cruz-Romero</strong>
+    conference_short: Active
+    conference: NSF-EPSCoR CAWT URFI 2024
+    pdf: 
+    code: https://github.com/edge-computing-group/cp-anemia
+    image: ./assets/img/teaser_example_2.png
+    notes: Dr. Wilfredo Lugo Beauchamp, Edge Computing Group
+
+  - title: Fine-tuning Automatic Speech Recognition Models for Accented Speech
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Brandon Medina, Aliya Daire, Samuel Ovalle, Ronaldo B. López-Tucux
+    conference_short: Inactive
+    conference: Apple-NACME AIML Intensive Bootcamp
+    pdf: 
+    code: https://github.com/romerocruzsa/finetuning-asr
+    image: ./assets/img/teaser_example_2.png
+    notes: Dr. Christan Grant, UF Data Studio; Dr. Corey Baker, NetRecon Lab
+
+  - title: Timely Sepsis Detection and Severity Classification using Recurrent Neural Networks
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Michael Álvarez Navarro, Luis Huallparimachi Saire
+    conference_short: Inactive
+    conference: MARC U-STAR UPRM
+    pdf: 
+    code: 
+    image: ./assets/img/teaser_example_2.png
+    notes: Dr. Heidy Sierra Gil
+
+  # Add more projects similarly here

@@ -8,7 +8,7 @@ layout: homepage
 
 I am an **undergraudate senior** in [Computer Science and Engineering](https://uprm.edu/cse) at the [University of Puerto Rico at Mayagüez](https://uprm.edu). 
 
-While my academic training is in engineering and computing, I do have a keen interest in the life sciences and research. Particularly, my interests align in two things: **computational approaches to biological phenomena**. Currently, I am part of the [Edge Computing Group](https://github.com/edge-computing-upr) through the **[NSF-EPSCoR Center for the Advancement of Wearable Technologies (CAWT)](https://cawt.upr.edu) Undergraduate Research Fall Internship 2024** under advisement of [Dr. Wilfredo Lugo Beauchamp]() working on developing Deep Learning models to detect anemia through the interior part of the eyelid (*conjunctiva pallor*) whilst making them efficient in resource-limited environments through battery-powered devices. [*NSF Award OIA-1849243*].
+While my academic training is in engineering and computing, I do have a keen interest in the life sciences and research. Particularly, my interests align in two things: **computational approaches to biological phenomena**. Currently, I am part of the [Edge Computing Group](https://github.com/edge-computing-upr) through the **[NSF-EPSCoR Center for the Advancement of Wearable Technologies (CAWT)](https://cawt.upr.edu) Undergraduate Research Fall Internship 2024** under advisement of [Dr. Wilfredo Lugo Beauchamp](https://scholar.google.com.pr/citations?hl=en&user=6IknU_EAAAAJ&view_op=list_works&sortby=pubdate) working on developing Deep Learning models to detect anemia through the interior part of the eyelid (*conjunctiva pallor*) whilst making them efficient in resource-limited environments through battery-powered devices. [*NSF Award OIA-1849243*].
 
 ## Research Interests
 
@@ -25,4 +25,6 @@ While my academic training is in engineering and computing, I do have a keen int
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+<!-- {% include_relative _includes/research_projects.md %} -->
+
+{% include_relative _includes/services.md %}
