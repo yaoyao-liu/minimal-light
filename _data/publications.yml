@@ -21,7 +21,7 @@ main:
     bibtex: https://arxiv.org/abs/2407.00497
     notes: Findings
     image: ./assets/img/LEC.png
-
+  
   - title: Intuitive or Dependent? Investigating LLMs’ Behavior Style to Conflicting Prompts
     authors: <strong>Jiahao Yin</strong>, Yixin Cao, Kai Xiong, Yidong He, Long Cui, Yongbin Liu
     conference_short: ACL
