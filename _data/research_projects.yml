@@ -1,30 +1,66 @@
 main:
 
   - title: Addressing Memory Consumption in Edge Devices through Data Quantization
-    authors: <strong>Sebastián A. Cruz-Romero</strong>
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Dr. Wilfredo Lugo Beauchamp
     conference_short: Active
-    conference: NSF-EPSCoR CAWT URFI 2024
+    conference: NSF-EPSCoR Center for the Advancement of Wearable Technologies Undergraduate Research Fall Internship 2024
     pdf: 
     code: https://github.com/edge-computing-group/cp-anemia
-    image: ./assets/img/teaser_example_2.png
-    notes: Dr. Wilfredo Lugo Beauchamp, Edge Computing Group
+    image: ./assets/img/cawt_logo.png
+    notes: 
 
   - title: Fine-tuning Automatic Speech Recognition Models for Accented Speech
-    authors: <strong>Sebastián A. Cruz-Romero</strong>, Brandon Medina, Aliya Daire, Samuel Ovalle, Ronaldo B. López-Tucux
-    conference_short: Inactive
-    conference: Apple-NACME AIML Intensive Bootcamp
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Brandon Medina, Aliya Daire, Samuel Ovalle, Ronaldo B. López-Tucux, Dr. Christan Grant, Dr. Corey Baker
+    conference_short: 
+    conference: Apple-NACME Inc. Artificial Intelligence-Machine Learning Intensive Bootcamp 2024
     pdf: 
     code: https://github.com/romerocruzsa/finetuning-asr
-    image: ./assets/img/teaser_example_2.png
-    notes: Dr. Christan Grant, UF Data Studio; Dr. Corey Baker, NetRecon Lab
+    image: ./assets/img/usc_logo.png
+    notes: 
 
-  - title: Timely Sepsis Detection and Severity Classification using Recurrent Neural Networks
-    authors: <strong>Sebastián A. Cruz-Romero</strong>, Michael Álvarez Navarro, Luis Huallparimachi Saire
-    conference_short: Inactive
-    conference: MARC U-STAR UPRM
+  - title: Identifying Epigenetic Alterations within the Orbitofrontal Cortex tied to Opioid Use Disorder
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Hannah Ramcharan, An Hoang, Dr. Olivia Corradin
+    conference_short:
+    conference: Bernard & Sophie Gould MIT Summer Research Program in Biology and Neuroscience 2023
     pdf: 
     code: 
-    image: ./assets/img/teaser_example_2.png
-    notes: Dr. Heidy Sierra Gil
+    image: ./assets/img/mit_logo.png
+    notes: 
+    
+  - title: Early Sepsis Detection and Severity Classification using Recurrent Neural Networks
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Michael Álvarez Navarro, Luis Huallparimachi Saire, Dr. Heidy Sierra Gil
+    conference_short: 
+    conference: NIH Maximizing Access to Research Careers Undergraduate Student Training in Academic Research 2023
+    pdf: 
+    code: 
+    image: ./assets/img/uprm_logo.png
+    notes: 
+
+  - title: Evaluation of High-Dynamic Range Image Aesthetics
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Dr. Orazio Gallo, Dr. Ekta Prashani
+    conference_short: 
+    conference: NVIDIA Ignite Program, Learning and Perception Research Team 2022
+    pdf: 
+    code: 
+    image: ./assets/img/nvidia_logo.png
+    notes: 
+
+  - title: AI Binary Classifier for Male & Female Magnetics Resonance Images
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Evelyn Lliguicota, Michal Brzus, Dr. Hans Johnson
+    conference_short: 
+    conference: NSF Computational Bioengineering Research Experience for Undergraduates 2021
+    pdf: 
+    code: 
+    image: ./assets/img/uiowa_logo.png
+    notes: 
+
+  - title: Evaluating Effects of ZnS and ZnS Mn-doped Nanoparticles in <em>Lactuca sativa</em>
+    authors: <strong>Sebastián A. Cruz-Romero</strong>, Carla I. Quiles Vélez, Josian Luciacno Velázquez, Dr. Martha L. López Moreno
+    conference_short: 
+    conference: NSF Puerto Rico Louis Stokes Alliance for Minority Participation 2020-2022
+    pdf: 
+    code: 
+    image: ./assets/img/uprm_logo.png
+    notes: 
 
   # Add more projects similarly here

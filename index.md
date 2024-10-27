@@ -25,6 +25,6 @@ While my academic training is in engineering and computing, I do have a keen int
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/research_projects.md %} -->
+{% include_relative _includes/research_projects.md %}
 
 {% include_relative _includes/services.md %}
