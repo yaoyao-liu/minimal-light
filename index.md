@@ -13,7 +13,9 @@ I worked as a software engineer in the industry for nearly a decade at [Snap Inc
 
 The goal of my research is to build **Trustworthy AIware**. Industries are transitioning from software to AIware, i.e., AI-powered software, which will greatly democratize
 software creation and ease the jobs of 27 million professional software engineers in the world. Therefore, How to build reliable and
-safe software is critical for society, especially in the current era of Large Language Models (LLMs). I'm interested in developing a systems thinking approach that emphasizes connections, feedback loops, layers, and new processes to address the trustworthiness issues in AIware. In the future, I plan to use this approach to enhance more dimensions of trustworthiness such as controllability, safety, and robustness for AIware components. Ultimately, I believe, systems thinking will provide a new perspective that complements the statistical and reductionist view, a new language for communicating AIware components and relationships, and new tools that form fundamental, practical building blocks in the evolution of trustworthy AIware.
+safe software is critical for society, especially in the current era of Large Language Models (LLMs). 
+
+I'm interested in developing a **systems thinking approach that emphasizes connections, feedback loops, layers, and new processes** to address the trustworthiness issues in AIware. In the future, I plan to use this approach to enhance more dimensions of trustworthiness such as controllability, safety, and robustness for AIware components. I believe systems thinking will provide a new perspective that complements the statistical and reductionist view, a new language for communicating AIware components and relationships, and new tools that form fundamental, practical building blocks in the evolution of trustworthy AIware.
 
 
 <div style="text-align: center;">
