@@ -10,7 +10,16 @@ I'm a postdoc at [University of British Columbia](https://www.ubc.ca/), working 
 I worked as a software engineer in the industry for nearly a decade at [Snap Inc.](https://snap.com/en-US) (Seattle office), [Microsoft](https://www.microsoft.com/en-us/) (Redmond HQ), and startup ([ArcSite](https://www.arcsite.com/), Shanghai office). I've worked in various areas such as ML-enabled recommender systems, data analysis, scalable backend service and infrastructure, mobile applications, etc.
 
 ## Research
-My main research interest is **Systems Thinking for Trustworthy AIware** (i.e., AI-powered software). Guided by the ideological systems thinking mindset and the realistic industrial context, my work aims to improve the trustworthiness and safety of AIware in the era of Large Language Models (LLMs). My research lies at the intersection of Software Engineering and AI. 
+
+The goal of my research is to build **Trustworthy AIware**. Industries are transitioning from software to AIware, i.e., AI-powered software, which will greatly democratize
+software creation and ease the jobs of 27 million professional software engineers in the world. Therefore, How to build reliable and
+safe software is critical for society, especially in the current era of Large Language Models (LLMs). I'm interested in developing a systems thinking approach that emphasizes connections, feedback loops, layers, and new processes to address the trustworthiness issues in AIware. In the future, I plan to use this approach to enhance more dimensions of trustworthiness such as controllability, safety, and robustness for AIware components. Ultimately, I believe, systems thinking will provide a new perspective that complements the statistical and reductionist view, a new language for communicating AIware components and relationships, and new tools that form fundamental, practical building blocks in the evolution of trustworthy AIware.
+
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/ed8f19fc-b0b5-4fd1-ae98-7dff9a214c09" alt="Research Topic" style="width: 50%; max-width: 400px;">
+</div>
+
 
 **Keywords**: AI for Software Engineering (AI4SE), Software Engineering for AI (SE4AI), Large Language Models (LLMs), Data Science, Systems Science and Engineering
 
