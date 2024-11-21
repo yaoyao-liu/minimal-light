@@ -14,8 +14,6 @@
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
-
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
     transform: scale(1.2)}
@@ -34,26 +32,6 @@
         background: #337ab7;
       }
      */
-
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
-    color:black;
-    transform: scale(1.2)} 
-    /*
-    .social-icons a:after {
-        content: '';
-        display: block;
-        margin: 0px;
-        height: 1px;
-        width: 0px;
-        background: transparent;
-        transition: width .5s ease, background-color .5s ease;
-      }
-    .social-icons a:hover:after {
-        width: 100%;
-        background: #a0b0ff;
-      }
-    */
-}
 
 .icon-button{
   background-color:white;
@@ -158,31 +136,6 @@ papertitle {
     font-size: 100%;
   }
 
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #20212b;
-        color: #dadbdf;
-    }
-
-    autocolor{
-      color:#dadbdf;
-    }
-
-    lightonly {
-      visibility: hidden;
-    }
-
-    darkonly {
-      visibility: visible;
-    }
-
-    papertitle {
-    color:#eeeff0;
-    }
-
-}
-
-
   .image {
     border-radius: 0.35em;
     border: 0;
@@ -247,16 +200,6 @@ h2 {
   font-size: 157%;
 }
 
-@media (prefers-color-scheme: dark) {
-  h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
-  }
-
-  h2 {
-    color:rgb(62, 183, 240);
-  }
-}
-
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
@@ -276,12 +219,6 @@ a {
 
 a:hover {
   color:#069;
-}
-
-@media (prefers-color-scheme: dark) {
-  a {
-    color:rgb(62, 183, 240);
-  }
 }
 
 a small {
@@ -339,16 +276,6 @@ dt {
 
 th {
   color:#444;
-}
-
-@media (prefers-color-scheme: dark) {
-  th {
-    color:rgb(62, 183, 240);
-  }
-
-  dt {
-    color:rgb(62, 183, 240);
-  }
 }
 
 img {
@@ -412,12 +339,6 @@ header ul a:active {
 strong {
   color:#222;
   font-weight:500;
-}
-
-@media (prefers-color-scheme: dark) {
-  strong {
-    color:#eeeff0;
-  }
 }
 
 header ul li + li + li {
