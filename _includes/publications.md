@@ -11,7 +11,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2410.03981"> A Survey on LLM-based Code Generation for Low-Resource and Domain-Specific Programming Languages </a></div>
-    <div class="author"> Sathvik Joel, <strong>Wu, Jie JW</strong>, Fatemeh Hendijani Fard</div>
+    <div class="author"> Sathvik Joel, <strong>Jie JW Wu</strong>, Fatemeh Hendijani Fard</div>
     <div class="links">
        <button class="btn btn-sm z-depth-0" onclick="copyBibtex('joel2024survey')" style="font-size: 12px;">Copy BibTeX</button>
           <textarea id="bibtex_joel2024survey" style="display: none;">
@@ -24,6 +24,31 @@
           </textarea>
      </div>
     <div class="periodical"><em>(long paper, under review) </em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/merge_repair.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MergeRepair</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2408.09568"> MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair </a></div>
+    <div class="author"> Meghdad Dehghan, <strong>Jie JW Wu</strong>, Fatemeh Hendijani Fard, Ali Ouni</div>
+    <div class="links">
+       <button class="btn btn-sm z-depth-0" onclick="copyBibtex('dehghan2024mergerepair')" style="font-size: 12px;">Copy BibTeX</button>
+          <textarea id="bibtex_dehghan2024mergerepair" style="display: none;">
+            @article{dehghan2024mergerepair,
+              title={MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair},
+              author={Dehghan, Meghdad and Wu, Jie JW and Fard, Fatemeh H and Ouni, Ali},
+              journal={arXiv preprint arXiv:2408.09568},
+              year={2024}
+            }
+          </textarea>
+     </div>
+    <div class="periodical"><em>(Accepted RR. To submit to EMSE) </em></div>
   </div>
 </div>
 </li>
