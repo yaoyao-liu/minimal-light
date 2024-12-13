@@ -18,6 +18,6 @@ I am a Ph.D. student at ...
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.html %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/services.html %}
