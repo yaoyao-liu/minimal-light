@@ -3,9 +3,9 @@ main:
   - title: Addressing Memory Consumption in Edge Devices through Data Quantization
     authors: <strong>Sebastián A. Cruz-Romero</strong>, Dr. Wilfredo Lugo Beauchamp
     conference_short: Active
-    conference: NSF-EPSCoR Center for the Advancement of Wearable Technologies Undergraduate Research Fall Internship 2024
+    conference: NSF-EPSCoR Center for the Advancement of Wearable Technologies Undergraduate Research Fall/Spring Internship 2024-25
     pdf: 
-    code: https://github.com/edge-computing-group/cp-anemia
+    code: https://github.com/edge-computing-group/cp-anemia-detection
     image: ./assets/img/cawt_logo.png
     notes: 
 

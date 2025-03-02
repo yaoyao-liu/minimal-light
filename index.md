@@ -6,9 +6,7 @@ layout: homepage
 
 ## About Me
 
-I am an **undergraudate senior** in [Computer Science and Engineering](https://www.uprm.edu/cse/) at the [University of Puerto Rico at Mayagüez](https://www.uprm.edu/). 
-
-While my academic training is in engineering and computing, I do have a keen interest in the life sciences and research. Particularly, my interests align in two things: **computational approaches to biological phenomena**. Currently, I am part of the [Edge Computing Group](https://github.com/edge-computing-upr) through the **[NSF-EPSCoR Center for the Advancement of Wearable Technologies (CAWT)](https://cawt.upr.edu) Undergraduate Research Fall Internship 2024** under advisement of [Dr. Wilfredo Lugo Beauchamp](https://scholar.google.com.pr/citations?hl=en&user=6IknU_EAAAAJ&view_op=list_works&sortby=pubdate) working on developing Deep Learning models to detect anemia through the interior part of the eyelid (*conjunctiva pallor*) whilst making them efficient in resource-limited environments through battery-powered devices. [*NSF Award OIA-1849243*].
+I am an undergraudate senior in Computer Science and Engineering at the University of Puerto Rico at Mayagüez. Currently, I work at the Edge Computing Group under advisement of Dr. Wilfredo Lugo Beauchamp working on developing memory-efficient models for on-device processing of anemia detection in *conjunctiva pallor* (inner eyelid) [NSF Award OIA-1849243].
 
 ## Research Interests
 
@@ -19,12 +17,17 @@ While my academic training is in engineering and computing, I do have a keen int
 
 ## News
 
-- **[Sep. 2024]** Submitted summer research paper at HotMobile 2024!
+- **[Aug. 2025]** Abstract accepted for SIAM CSE 2025 titled *Evaluating Neural Network Quantization for Conjunctival Pallor Anemia Detection*!
+- **[Feb. 2025]** Paper accepted at ISICN 2025 titled *Performance Analysis of Post-training Quantization for Conjunctival Pallor Anemia Detection*!
+- **[Dec. 2025]** Submitted research paper at ISICN 2025.
+- **[Nov. 2025]** Abstract submitted at SIAM CSE 2025.
+- **[Sep. 2024]** Submitted summer research paper at HotMobile 2024.
 - **[Summer 2024]** Completed the Apple-NACME Inc. AIML Intensive Bootcamp hosted at USC.
-- **[Aug. 2024]** Our paper about LSTM-sepsis detection was published!
+- **[Aug. 2024]** Our paper titled *LSTM Model for Sepsis Detection and Classification Using PPG Signals* was published!
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/research_projects.md %}
 
 {% include_relative _includes/services.md %}
+

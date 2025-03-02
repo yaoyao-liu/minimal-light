@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem 'rexml'
 gem "logger"
 gem "csv"
 gem "ostruct"
