@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraudate senior in Computer Science and Engineering at the University of Puerto Rico at Mayagüez. Currently, I work at the Edge Computing Group under advisement of Dr. Wilfredo Lugo Beauchamp working on developing memory-efficient models for on-device processing of anemia detection in *conjunctiva pallor* (inner eyelid) [NSF Award OIA-1849243].
+I am an undergraudate senior in Computer Science and Engineering at the University of Puerto Rico at Mayagüez. Currently, I work at the Edge Computing Group under advisement of Dr. Wilfredo Lugo Beauchamp working on developing memory-efficient models for on-device processing of anemia detection in *conjunctiva pallor* (inner eyelid) [NSF Award OIA-1849243]. With a strong background in Data Science & Engineering, Statistical Modeling, and Machine Learning, I am looking for full-time opportunities in Bioinformatics, Data Analytics, and AI/ML upon graduation.
 
 ## Research Interests
 
