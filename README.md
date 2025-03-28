@@ -8,7 +8,7 @@
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
-The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
+The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/homepage)]
 <br>
 An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[link](https://github.com/Xiao-Chenguang/minimal-light)]
 
