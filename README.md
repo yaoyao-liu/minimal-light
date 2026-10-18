@@ -78,7 +78,7 @@ If you hope to edit any files (e.g., `index.md`), you still need to copy them to
 
 ### Using Locally with Jekyll
 
-First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
+First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The installation instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
 
 Then, clone this repository:
 
@@ -116,7 +116,7 @@ email: yourname (at) example.edu
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -155,7 +155,7 @@ Create `index.md` and add your personal information. It supports **Markdown** an
 
 ### Edit included files
 
-There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
+There are two Markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
 https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
 
 If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
