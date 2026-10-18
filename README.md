@@ -2,7 +2,7 @@
 
 \[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
  
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
+*This is the source code of my homepage. I built this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
@@ -15,9 +15,9 @@ An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[
 - Simple and elegant personal homepage theme
 - Jekyll theme, automatically deployed by GitHub Pages
 - Basic search engine optimization
-- Mobile friendly
-- Supporting Markdown 
-- Supporting dark mode
+- Mobile-friendly
+- Supports Markdown 
+- Supports dark mode
 
 ## Project Architecture
 
@@ -63,7 +63,7 @@ There are two ways to use this template on GitHub:
 #### Fork this repository
 - Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
-- Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+- Enable GitHub Pages for that repository by following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
 
 #### Using this repository as a remote theme
 To use this theme, add the following to your repository's `_config.yml`:
