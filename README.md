@@ -96,6 +96,12 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
 
+### Deploying on Wasmer
+
+[![Deploy to Wasmer](https://img.shields.io/badge/Deploy%20to-Wasmer-171717?logo=wasmer&logoColor=white)](https://wasmer.io/apps/create?github=yaoyao-liu%2Fminimal-light)
+
+Wasmer detects this repository as a Jekyll site: it runs `bundle install` and `jekyll build`, then serves the `_site` folder. The button opens Wasmer's import page for this public repository, where you review the detected settings (and correct them if needed) before clicking Deploy; nothing is deployed until you do. It does not create a copy of the repository in your GitHub account. For your own homepage, fork this repository (or use it as a template), edit `_config.yml` and `index.md`, and import your repository instead.
+
 ### Using the HTML version
 
 The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
