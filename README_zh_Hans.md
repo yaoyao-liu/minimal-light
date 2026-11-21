@@ -8,8 +8,6 @@
 <br>
 *欢迎随意使用和分享这些源代码。*
 
-[@Xiao-Chenguang](https://github.com/Xiao-Chenguang) 制作的改进版本：[[链接](https://github.com/Xiao-Chenguang/minimal-light)]
-
 **我个人主页的最新版本在这里：<br><https://github.com/yaoyao-liu/yaoyaoliu-homepage>**
 
 ## 项目特点
