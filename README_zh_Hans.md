@@ -27,7 +27,7 @@
 |   └── publications.yml                      # 论文列表的 YAML 数据文件
 ├── _includes
 |   ├── publications.md                       # 论文列表的 Markdown 文件
-|   └── service.md                           # 学术服务的 Markdown 文件
+|   └── service.md                            # 学术服务的 Markdown 文件
 ├── _layouts
 |   └── homepage.html                         # 主页的 HTML 模板
 ├── _sass
