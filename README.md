@@ -27,7 +27,7 @@
 |   └── publications.yml                      # the YAML file for publications
 ├── _includes
 |   ├── publications.md                       # the Markdown file for publications
-|   └── service.md                           # the Markdown file for services
+|   └── service.md                            # the Markdown file for services
 ├── _layouts
 |   └── homepage.html                         # the HTML template for the homepage
 ├── _sass
