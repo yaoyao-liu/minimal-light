@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
+    <meta name="description" content="The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.">
     
     <meta name="keywords" content="minimal light">
     
@@ -16,11 +16,16 @@
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <script src="./assets/js/favicon-switcher.js" defer></script>
 
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <link rel="stylesheet" href="./assets/css/font.css">
+    
     
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
@@ -38,11 +43,13 @@
         <h1>Your Name</h1>
 
         
-        <position style="font-size:1.10rem;">Ph.D. Student</position>
+        <position>Ph.D. Student</position>
         <br>
         
         
-        <a href="" rel="noopener"><autocolor>Your Affiliation</autocolor></a>
+        
+        <a href="https://www.example.edu/" rel="noopener"><autocolor>Your Affiliation</autocolor></a>
+        
         <br>
         
         
@@ -53,32 +60,32 @@
         <br>
         <div class="social-icons">
         
-        <a style="margin: 0 5px 0 0" href="https://scholar.google.com/">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
+        <a href="https://scholar.google.com/">
+          <i class="ai ai-google-scholar"></i>
         </a>  
         
 
         
-        <a style="margin: 0 5px 0 0" href="assets/files/curriculum_vitae.pdf">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
+        <a href="assets/files/curriculum_vitae.pdf">
+          <i class="ai ai-cv"></i>
         </a>
         
 
         
-        <a style="margin: 0 5px 0 0" href="https://github.com/">
+        <a href="https://github.com/">
           <i class="fab fa-github"></i>
         </a>
         
 
         
-        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/">
           <i class="fab fa-linkedin"></i>
         </a>
         
 
         
-        <a style="margin: 0 0 0 0" href="https://twitter.com/">
-          <i class="fab fa-twitter"></i>
+        <a href="https://twitter.com/">
+          <i class="fab fa-x-twitter"></i>
         </a>
         
         </div>
@@ -107,7 +114,7 @@
   <li><strong>[Mar. 2019]</strong> Our paper about few-shot learning is accepted to CVPR 2019.</li>
 </ul>
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" class="publications-heading">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -116,72 +123,74 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/teaser_example_2.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">MICCAI</abbr>
+  <div class="col-sm-3 abbr">
+    
+    <img src="./assets/img/teaser_example_2.webp" class="teaser img-fluid z-depth-1" alt="Continual Learning for Abdominal Multi-Organ and Tumor Segmentation" loading="lazy" />
+    
+    
+    <abbr class="badge">MICCAI</abbr>
+    
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></div>
-      <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)</div>
-      <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em>
-      </div>
+  <div class="col-sm-9">
+    <div class="title"><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></div>
+    <div class="author">Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)</div>
+    <div class="periodical"><em>International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.</em></div>
     <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2306.00988.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
-       
-      <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/2306.00988.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
       
       
-       
-      <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/MrGiovanni/ContinualLearning" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Code</a>
       
-       
-      <strong> <i style="color:#e74d3c">Early Accept</i></strong>
+      
+      
+      <a href="https://bib.yliu.me/MICCAI23.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">BibTex</a>
+      
+      
+      <strong><i class="notes">Early Accept</i></strong>
       
       
     </div>
   </div>
 </div>
 </li>
-
 <br />
 
 
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/teaser_example.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%" />
-            <abbr class="badge">CVPR</abbr>
+  <div class="col-sm-3 abbr">
+    
+    <img src="./assets/img/teaser_example.webp" class="teaser img-fluid z-depth-1" alt="Mnemonics Training: Multi-Class Incremental Learning without Forgetting" loading="lazy" />
+    
+    
+    <abbr class="badge">CVPR</abbr>
+    
   </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-      <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-      <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em>
-      </div>
+  <div class="col-sm-9">
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
+    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
     <div class="links">
-       
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       
-       
-      <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
       
-       
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       
-       
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Code</a>
       
-       
-      <strong> <i style="color:#e74d3c">Oral Presentation</i></strong>
+      
+      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Project Page</a>
+      
+      
+      
+      <strong><i class="notes">Oral Presentation</i></strong>
       
       
     </div>
   </div>
 </div>
 </li>
-
 <br />
 
 
@@ -189,7 +198,7 @@
 </ol>
 </div>
 
-<h2 id="services">Services</h2>
+<h2 id="service">Service</h2>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
@@ -218,16 +227,6 @@
         
       </footer>
     </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', 'UA-111540567-4', 'auto');
-      ga('send', 'pageview');
-    </script>
     
   </body>
 </html>

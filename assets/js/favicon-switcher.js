@@ -1,64 +1,53 @@
-;(function(mod){
-function collectLinks() {
-  return Array.prototype.slice.apply(
-    document.head.querySelectorAll('link[rel*="icon"]')
-  )
-}
-
-function applyLink(source, target) {
-  target.setAttribute('type', source.getAttribute('type'))
-  target.setAttribute('href', source.getAttribute('href'))
-}
-
-// eslint-disable-next-line no-unused-vars
-function initSwitcher(delay) {
-  // Exit if media queries aren't supported
+// Switches the favicon when the browser changes between the light and dark
+// color schemes. It reads every <link rel="icon" media="..."> in the <head>
+// and keeps a single active icon that follows the matching media query.
+(function () {
   if (typeof window.matchMedia !== 'function') {
-    return function noop() {}
+    return
   }
 
-  var links = collectLinks()
+  var links = Array.prototype.slice.call(
+    document.head.querySelectorAll('link[rel*="icon"]')
+  )
+
+  if (links.length === 0) {
+    return
+  }
+
+  var queries = links.map(function (link) {
+    return window.matchMedia(link.media || 'all')
+  })
+
   var current = document.createElement('link')
-  var prevMatch
+  current.setAttribute('rel', 'icon')
 
-  current.setAttribute('rel', 'shortcut icon')
-  document.head.appendChild(current)
+  function apply() {
+    // The last matching icon wins; fall back to the last icon if none matches.
+    var matched = links[links.length - 1]
 
-  function faviconApplyLoop() {
-    var matched
-
-    links.forEach(function(link) {
-      if (window.matchMedia(link.media).matches) {
-        matched = link
+    queries.forEach(function (query, index) {
+      if (query.matches) {
+        matched = links[index]
       }
     })
 
-    if (! matched) {
-      return
-    }
-
-    if (matched.media !== prevMatch) {
-      prevMatch = matched.media
-      applyLink(matched, current)
+    if (current.getAttribute('href') !== matched.getAttribute('href')) {
+      current.setAttribute('type', matched.getAttribute('type') || 'image/png')
+      current.setAttribute('href', matched.getAttribute('href'))
     }
   }
 
-  var intervalId = setInterval(faviconApplyLoop, delay || 300)
-
-  function unsubscribe() {
-    clearInterval(intervalId)
-    links.forEach(function(link) {
-      document.head.appendChild(link)
-    })
-  }
-
-  faviconApplyLoop()
-  links.forEach(function(link) {
+  links.forEach(function (link) {
     document.head.removeChild(link)
   })
+  document.head.appendChild(current)
+  apply()
 
-  return unsubscribe
-}
-
-initSwitcher()
+  queries.forEach(function (query) {
+    if (typeof query.addEventListener === 'function') {
+      query.addEventListener('change', apply)
+    } else if (typeof query.addListener === 'function') {
+      query.addListener(apply)
+    }
+  })
 })()

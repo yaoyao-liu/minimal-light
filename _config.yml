@@ -1,16 +1,17 @@
-# Basic Information 
+# Basic Information
 title: Your Name
 position: Ph.D. Student
 affiliation: Your Affiliation
+affiliation_link: https://www.example.edu/
 email: yourname (at) example.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
@@ -18,27 +19,27 @@ github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# You may use this option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
+# You may use this option to disable the automatic dark theme.
 auto_dark_mode: true
 
 # Font
-# You can use this option to choose between Serif or Sans Serif fonts.
+# You may use this option to choose between Serif and Sans Serif fonts.
 font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# Uncomment the line below and fill in your Google Analytics 4 measurement ID (G-XXXXXXXXXX) to enable it.
+# google_analytics: G-XXXXXXXXXX
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll

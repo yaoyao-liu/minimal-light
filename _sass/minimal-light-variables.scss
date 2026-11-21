@@ -1,0 +1,32 @@
+// Shared settings for the Minimal Light stylesheets.
+
+// Set this to false before importing a stylesheet to leave out all dark-mode rules.
+$dark-mode: true !default;
+
+// Light mode
+$color-text: #595959;
+$color-heading: #043361;
+$color-strong: #222;
+$color-link: #39c;
+$color-link-hover: #069;
+$color-border: #e5e5e5;
+$color-muted: #444;
+
+// Dark mode
+$dark-bg: #20212b;
+$dark-text: #dadbdf;
+$dark-strong: #eeeff0;
+$dark-accent: rgb(62, 183, 240);
+
+// Breakpoints
+$tablet: "print, screen and (max-width: 960px)";
+$phone: "print, screen and (max-width: 480px)";
+
+// Wraps its content in a dark-mode media query (and drops it when $dark-mode is false).
+@mixin dark {
+  @if $dark-mode {
+    @media (prefers-color-scheme: dark) {
+      @content;
+    }
+  }
+}

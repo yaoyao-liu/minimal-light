@@ -1,132 +1,190 @@
-### Diese Datei wird automatisch von [Google Translate](https://translate.google.com/) übersetzt. Wenn es Fehler gibt, lesen Sie bitte [die englische Version](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) und erstellen Sie eine [Pull-Anfrage](https://github.com/yaoyao-liu/minimal-light/pulls), um diese zu beheben. Vielen Dank.
-# Das Minimal Light Thema
+# Das Minimal-Light-Theme
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](LICENSE)
 
-\[[Demo](https://minimal-light-theme.yliu.me/)\]  \[[English](https://github.com/yaoyao-liu/minimal-light/blob/master/README.md) | [简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md)\]
- 
-*Dies ist der Quellcode meiner Homepage. Ich baue diese Website basierend auf [minimal](https://github.com/orderedlist/minimal).*
+\[[Demo des Themes](https://minimal-light-theme.yliu.me/)\]  \[[English](README.md) | [简体中文](README_zh_Hans.md) | [繁體中文](README_zh_Hant.md)\]
+
+*Dies ist der Quellcode meiner Homepage. Ich habe diese Website auf Basis von [minimal](https://github.com/orderedlist/minimal) erstellt.*
 <br>
-*Sie können den Quellcode jederzeit verwenden und freigeben.*
+*Sie können den Quellcode gerne beliebig verwenden und weitergeben.*
 
-## Eigenschaften
+Eine verbesserte Version von [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[Link](https://github.com/Xiao-Chenguang/minimal-light)]
 
-- Einfaches und elegantes persönliches Homepage-Thema
-- Jekyll-Theme, wird automatisch von GitHub-Seiten bereitgestellt
+**Die neueste Version meiner Homepage finden Sie hier: <br><https://github.com/yaoyao-liu/yaoyaoliu-homepage>**
+
+*Diese Datei wurde maschinell aus der [englischen Version](README.md) übersetzt. Sollten Sie Fehler finden, richten Sie sich bitte nach der englischen Version; Korrekturen per [Pull-Request](https://github.com/yaoyao-liu/minimal-light/pulls) sind willkommen.*
+
+## Funktionen
+
+- Einfaches und elegantes Theme für persönliche Homepages
+- Jekyll-Theme, das automatisch über GitHub Pages bereitgestellt wird
 - Grundlegende Suchmaschinenoptimierung
-- Handyfreundlich
-- Support Markdown 
-- Unterstützt den dunklen Modus
+- Für Mobilgeräte geeignet
+- Unterstützt Markdown
+- Unterstützt den Dunkelmodus
 
-## Verwendung
+## Projektstruktur
 
-### Verwenden auf GitHub
+```
+.
+├── _data
+|   └── publications.yml                      # die YAML-Datei für die Publikationen
+├── _includes
+|   ├── publications.md                       # die Markdown-Datei für die Publikationen
+|   └── service.md                           # die Markdown-Datei für die akademischen Tätigkeiten
+├── _layouts
+|   └── homepage.html                         # die HTML-Vorlage der Homepage
+├── _sass
+|   ├── minimal-light.scss                    # wird zu einer CSS-Datei kompiliert, die das Aussehen der Seite steuert
+|   ├── minimal-light-no-dark-mode.scss       # wie minimal-light.scss, jedoch ohne Dunkelmodus
+|   ├── minimal-light-publications.scss       # die Stile der Publikationsliste
+|   └── minimal-light-variables.scss          # die gemeinsamen Farbvariablen und der Schalter für den Dunkelmodus
+├── assets                                    # statische Dateien (CSS, JavaScript, Bilder und PDFs)
+├── html_source_file                          # kompilierte HTML-Dateien
+├── .gitignore                                # legt fest, welche nicht versionierten Dateien Git ignorieren soll
+├── CNAME                                     # die eigene Domain, wird vom GitHub-Pages-Dienst verwendet
+├── Gemfile                                   # die Datei mit den benötigten Ruby-Gems
+├── LICENSE                                   # die Lizenzdatei
+├── README.md                                 # die Readme-Datei (Englisch)
+├── README_de.md                              # die Readme-Datei (Deutsch)
+├── README_zh_Hans.md                         # die Readme-Datei (vereinfachtes Chinesisch)
+├── README_zh_Hant.md                         # die Readme-Datei (traditionelles Chinesisch)
+├── _config.yml                               # die Jekyll-Konfigurationsdatei mit einigen Optionen der Seite
+└── index.md                                  # der Inhalt der Startseite, in Markdown geschrieben
+```
 
-Um dieses Thema zu verwenden, fügen Sie dem `_config.yml` Ihres Repositorys Folgendes hinzu:
+## Erste Schritte
+
+Diese Vorlage kann auf die folgenden zwei Arten verwendet werden:
+- **Verwendung mit dem GitHub-Pages-Dienst.** GitHub stellt Ihnen einen Server zur Verfügung, der die Webseiten erzeugt und hostet.
+- **Lokale Verwendung mit Jekyll.** Sie können Jekyll auf Ihrem eigenen Computer installieren und mit dieser Vorlage statische Webseiten (d. h. HTML-Dateien) erzeugen. Anschließend können Sie die HTML-Dateien auf Ihren Server hochladen.
+
+Die ausführliche Anleitung finden Sie unten.
+
+### Verwendung mit dem GitHub-Pages-Dienst
+
+Es gibt zwei Möglichkeiten, diese Vorlage auf GitHub zu verwenden:
+
+#### Dieses Repository forken
+
+- Forken Sie dieses Repository (oder [verwenden Sie es als Vorlage](https://docs.github.com/de/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) und ändern Sie den Namen in `your-username.github.io`.
+
+- Aktivieren Sie GitHub Pages für dieses Repository, indem Sie den Schritten [hier](https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) folgen.
+
+#### Dieses Repository als Remote-Theme verwenden
+
+Um dieses Theme zu verwenden, fügen Sie der `_config.yml` Ihres Repositorys Folgendes hinzu:
+
 ```yaml
 remote_theme: yaoyao-liu/minimal-light
 ```
 
-Bitte beachten Sie, dass durch Hinzufügen der obigen Zeile alle Standardeinstellungen in diesem Repository direkt auf Ihre angewendet werden.
+Bitte beachten Sie, dass durch das Hinzufügen der obigen Zeile alle Standardeinstellungen dieses Repositorys direkt auf Ihr Repository angewendet werden.
 
-Wenn Sie Dateien bearbeiten möchten (z. B. `index.md`), müssen Sie sie dennoch in Ihr Repository kopieren. 
+Wenn Sie Dateien bearbeiten möchten (z. B. `index.md`), müssen Sie diese dennoch in Ihr Repository kopieren.
 
-Sie können dieses Repository auch verzweigen (oder [Verwenden Sie dieses Repository als Vorlage](https://docs.github.com/de/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) und ändern Sie den Namen in `your-username.github.io`.
+### Lokale Verwendung mit Jekyll
 
-Dann müssen Sie die GitHub-Seiten für dieses Repository aktivieren, indem Sie die Schritte [hier](https://docs.github.com/de/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site) ausführen.
+Installieren Sie zunächst [Ruby](https://www.ruby-lang.org/de/) und [Jekyll](https://jekyllrb.com/). Die Installationsanleitung finden Sie hier: <https://jekyllrb.com/docs/installation/#guides>
 
-### Lokal mit Jekyll verwenden
-
-*Sie müssen [Ruby](https://www.ruby-lang.org/en/) und [Jekyll](https://jekyllrb.com/) fisrt installieren.*
-
-Klonen Sie dieses Repository:
+Klonen Sie anschließend dieses Repository:
 
 ```bash
 git clone https://github.com/yaoyao-liu/minimal-light.git
 cd minimal-light
 ```
-Installieren und ausführen:
+
+Installieren Sie die Abhängigkeiten und starten Sie den Server:
 
 ```bash
 bundle install
 bundle exec jekyll server
 ```
 
-Zeigen Sie die Live-Seite mit `localhost` an: 
-<http://localhost:4000>. Sie können die HTML-Dateien im Ordner `_site` abrufen.
+Die Seite können Sie unter <http://localhost:4000> ansehen. Die erzeugten HTML-Dateien finden Sie im Ordner `_site`.
 
-## Customizing
+### Verwendung der HTML-Version
+
+Die kompilierten HTML-Dateien befinden sich im Ordner `html_source_file`. Wenn Sie Jekyll nicht verwenden möchten, können Sie die HTML-Version direkt bearbeiten und verwenden.
+
+## Anpassung
 
 ### Konfigurationsvariablen
 
-Das Minimal Light-Thema berücksichtigt die folgenden Variablen, wenn es in der `_config.yml` Ihrer Site festgelegt ist:
+Das Minimal-Light-Theme berücksichtigt die folgenden Variablen, sofern sie in der `_config.yml` Ihrer Website gesetzt sind:
 
-  ```yaml
-# Grundinformation
-title: Ihren Namen
+```yaml
+# Grundlegende Informationen
+title: Ihr Name
 position: Ph.D. Student
-affiliation: Ihre Zugehörigkeit
+affiliation: Ihre Einrichtung
+affiliation_link: https://www.example.edu/
 email: yourname (at) example.edu
 
 # Suchmaschinenoptimierung (SEO)
-# Die folgenden Informationen werden verwendet, um den Website-Traffic von Suchmaschinen, z. B. Google, zu verbessern.
+# Die folgenden Angaben dienen dazu, die Zugriffe über Suchmaschinen (z. B. Google) zu erhöhen.
 keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: The Minimal Light is a simple and elegant Jekyll theme for an academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Verknüpfungen
-# Wenn Sie eine davon nicht benötigen, können Sie die entsprechende Zeile löschen.
+# Links
+# Wenn Sie einen davon nicht benötigen, können Sie die entsprechende Zeile löschen.
 google_scholar: https://scholar.google.com/
-cv_link: files/Curriculum_Vitae.pdf
+cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
 # Bilder (z. B. Ihr Profilbild und das Favicon Ihrer Website)
-# "favicon" und "favicon_dark" werden für den Hell- bzw. Dunkelmodus verwendet.
+# "favicon" und "favicon_dark" werden für den Hell- bzw. den Dunkelmodus verwendet.
 avatar: ./assets/img/avatar.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
-# Google Analytics ID
-# Bitte entfernen Sie dies, wenn Sie Google Analytics nicht verwenden
-google_analytics: UA-111540567-4
-  ```
-### Bearbeiten von `index.md`
+# Fußzeile
+# Mit dieser Option können Sie den Hinweis "Powered by Jekyll and Minimal Light theme." in der Fußzeile ausblenden.
+enable_footnote: true
 
-Erstellen Sie `index.md` und fügen Sie Ihre persönlichen Daten hinzu (z. B. Veröffentlichungen, Recherchen).
+# Automatischer Dunkelmodus
+# Mit dieser Option können Sie das automatische dunkle Theme deaktivieren.
+auto_dark_mode: true
+
+# Schriftart
+# Mit dieser Option können Sie zwischen Serifenschrift (Serif) und serifenloser Schrift (Sans Serif) wählen.
+font: "Serif" # oder "Sans Serif"
+
+# Google-Analytics-ID
+# Entfernen Sie das Kommentarzeichen in der folgenden Zeile und tragen Sie Ihre Google-Analytics-4-Mess-ID (G-XXXXXXXXXX) ein, um Google Analytics zu aktivieren.
+# google_analytics: G-XXXXXXXXXX
+```
+
+### `index.md` bearbeiten
+
+Erstellen Sie `index.md` und fügen Sie Ihre persönlichen Informationen hinzu. Die Datei unterstützt **Markdown**- und **HTML**-Syntax.
+
+### Eingebundene Dateien bearbeiten
+
+In `index.md` werden zwei Markdown-Dateien eingebunden: `_includes/publications.md` und `_includes/service.md`. Auch diese beiden Dateien unterstützen **Markdown**- und **HTML**-Syntax. Wenn Sie diese beiden Dateien nicht einbinden möchten, können Sie die folgenden Zeilen in `index.md` entfernen:
+https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
+
+Wenn Sie die Publikationsliste bearbeiten möchten, ohne das Format zu ändern, können Sie `_data/publications.yml` bearbeiten:
+https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
 
 ### Stylesheet
 
-Wenn Sie Ihre eigenen benutzerdefinierten Stile hinzufügen möchten:
-
-1. Erstellen Sie auf Ihrer Site eine Datei mit dem Namen `/assets/css/style.scss`
-2. Fügen Sie den folgenden Inhalt genau wie gezeigt oben in die Datei ein:
-
-    ```scss
-    ---
-    ---
-
-    @import "{{ site.theme }}";
-    ```
-3. Fügen Sie jedes benutzerdefinierte CSS (oder Sass, einschließlich Importe), das Sie möchten, unmittelbar nach der Zeile `@import` hinzu
+Wenn Sie eigene Stile hinzufügen möchten, können Sie `_sass/minimal-light.scss` bearbeiten.
 
 ### Layouts
 
-Wenn Sie das HTML-Layout des Themas ändern möchten:
-
-1. [Kopieren Sie die Originalvorlage](https://github.com/yaoyao-liu/minimal-light/blob/master/_layouts/homepage.html) aus dem Repository des Themas<br />(*Tipp: Klicken Sie auf "raw", um das Kopieren zu vereinfachen*)
-2. Erstellen Sie auf Ihrer Site eine Datei mit dem Namen `/_layouts/homepage.html`
-3. Fügen Sie den im ersten Schritt kopierten Standardlayoutinhalt ein
-4. Passen Sie das Layout nach Ihren Wünschen an
+Wenn Sie das HTML-Layout des Themes ändern möchten, können Sie `_layouts/homepage.html` bearbeiten.
 
 ## Lizenz
 
-Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Zero v1.0 Universal](https://github.com/yaoyao-liu/minimal-light/blob/master/LICENSE) Lizenz. 
+Dieses Werk steht unter der Lizenz [Creative Commons Zero v1.0 Universal](LICENSE).
 
 ## Danksagung
 
-Unser Projekt verwendet den Quellcode aus den folgenden Repositorys:
+Dieses Projekt verwendet Quellcode aus den folgenden Repositorys:
 
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
