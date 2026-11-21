@@ -8,8 +8,6 @@
 <br>
 *Sie können den Quellcode gerne beliebig verwenden und weitergeben.*
 
-Eine verbesserte Version von [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[Link](https://github.com/Xiao-Chenguang/minimal-light)]
-
 **Die neueste Version meiner Homepage finden Sie hier: <br><https://github.com/yaoyao-liu/yaoyaoliu-homepage>**
 
 *Diese Datei wurde maschinell aus der [englischen Version](README.md) übersetzt. Sollten Sie Fehler finden, richten Sie sich bitte nach der englischen Version; Korrekturen per [Pull-Request](https://github.com/yaoyao-liu/minimal-light/pulls) sind willkommen.*
