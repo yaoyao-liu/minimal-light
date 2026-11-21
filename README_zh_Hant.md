@@ -29,7 +29,7 @@
 |   └── publications.yml                      # 論文列表的 YAML 資料檔
 ├── _includes
 |   ├── publications.md                       # 論文列表的 Markdown 檔案
-|   └── service.md                           # 學術服務的 Markdown 檔案
+|   └── service.md                            # 學術服務的 Markdown 檔案
 ├── _layouts
 |   └── homepage.html                         # 首頁的 HTML 範本
 ├── _sass
