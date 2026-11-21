@@ -29,7 +29,7 @@
 |   └── publications.yml                      # die YAML-Datei für die Publikationen
 ├── _includes
 |   ├── publications.md                       # die Markdown-Datei für die Publikationen
-|   └── service.md                           # die Markdown-Datei für die akademischen Tätigkeiten
+|   └── service.md                            # die Markdown-Datei für die akademischen Tätigkeiten
 ├── _layouts
 |   └── homepage.html                         # die HTML-Vorlage der Homepage
 ├── _sass
